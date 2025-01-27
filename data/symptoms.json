@@ -1,52 +1,252 @@
 [
-  "acne",
-  "allergies",
-  "anxietyStress",
-  "lowLibido",
-  "migraine",
-  "menstrualCramps",
-  "muscleCramps",
-  "injuriesCuts",
-  "dandruff",
-  "diabetes",
-  "diarrhea",
-  "itching",
-  "backPain",
-  "jointPain",
-  "musclePain",
-  "bruises",
-  "eczema",
-  "fatigue",
-  "swelling",
-  "toothache",
-  "soreThroat",
-  "poorConcentration",
-  "poorDigestion",
-  "nausea",
-  "nervousness",
-  "drySkin",
-  "hairLoss",
-  "acidReflux",
-  "waterRetention",
-  "cold",
-  "sinusitis",
-  "weightLoss",
-  "dizziness",
-  "skinRashes",
-  "irritability",
-  "highBloodPressure",
-  "cholesterol",
-  "poorBloodCirculation",
-  "insomnia",
-  "cough",
-  "varicoseVeins",
-  "fever",
-  "asthma",
-  "cankerSores",
-  "tendinitis",
-  "anemia",
-  "urinaryTractInfection",
-  "constipation",
-  "liverDisorders",
-  "hemorrhoids"
+  {
+    "key": "acne",
+    "recommended_herbs": ["urticaDioca", "arctiumLappa", "violaArvensis"],
+    "additional_herbs": ["achilleaMillefolium", "calendulaOfficinalis"]
+  },
+  {
+    "key": "allergies",
+    "recommended_herbs": ["plantagoMajor", "urticaDioca", "ribesNigrum"],
+    "additional_herbs": ["thymusVulgaris", "matricariaRecutita", "menthaXPiperita"]
+  },
+  {
+    "key": "anxietyStress",
+    "recommended_herbs": ["melissaOfficinalis", "passifloraIncarnata", "valerianaOfficinalis", "lavandulaLatifolia", "tiliaPlatyphyllos"],
+    "additional_herbs": ["matricariaRecutita", "verbenaOfficinalis", "crataegusLaevigata", "citrusAurantium"]
+  },
+  {
+    "key": "lowLibido",
+    "recommended_herbs": ["zingiberOfficinale", "panaxGinseng"],
+    "additional_herbs": ["cinnamomumVerum", "trigonellaFoenumGraecum"]
+  },
+  {
+    "key": "migraine",
+    "recommended_herbs": ["tanacetumParthenium", "menthaXPiperita", "salixAlba"],
+    "additional_herbs": ["ginkgoBiloba", "ruscusAculeatus", "origanumMajorana"]
+  },
+  {
+    "key": "menstrualCramps",
+    "recommended_herbs": ["achilleaMillefolium", "vitexAgnusCastus", "rubusIdaeus"],
+    "additional_herbs": ["zingiberOfficinale"]
+  },
+  {
+    "key": "muscleCramps",
+    "recommended_herbs": ["vitisVinifera", "equisetumArvense"],
+    "additional_herbs": ["salviaOfficinalis", "achilleaMillefolium"]
+  },
+  {
+    "key": "injuriesCuts",
+    "recommended_herbs": ["hamamelisVirginiana", "calendulaOfficinalis", "achilleaMillefolium"],
+    "additional_herbs": ["panaxPseudoginseng", "matricariaRecutita", "hypericumPerforatum"]
+  },
+  {
+    "key": "dandruff",
+    "recommended_herbs": ["rosmarinusOfficinalis", "urticaDioca", "arctiumLappa"],
+    "additional_herbs": ["thymusVulgaris", "juglansRegia"]
+  },
+  {
+    "key": "diabetes",
+    "recommended_herbs": ["galegaOfficinalis", "oleaEuropaea", "trigonellaFoenumGraecum", "cinnamomumVerum"],
+    "additional_herbs": ["vacciniumMyrtillus", "juglansRegia", "polygonumAviculare"]
+  },
+  {
+    "key": "diarrhea",
+    "recommended_herbs": ["lythrumSalicaria", "potentillaErecta", "foeniculumVulgare"],
+    "additional_herbs": ["thymusVulgaris", "rubusIdaeus"]
+  },
+  {
+    "key": "itching",
+    "recommended_herbs": ["calendulaOfficinalis", "arctiumLappa", "fumariaOfficinalis", "urticaDioca"],
+    "additional_herbs": ["plantagoMajor", "avenaSativa", "matricariaRecutita"]
+  },
+  {
+    "key": "backPain",
+    "recommended_herbs": ["filipendulaUlmaria", "salixAlba", "valerianaOfficinalis", "harpagophytumProcumbens"],
+    "additional_herbs": ["equisetumArvense", "ribesNigrum", "curcumaDomestica", "ruscusAculeatus"]
+  },
+  {
+    "key": "jointPain",
+    "recommended_herbs": [],
+    "additional_herbs": []
+  },
+  {
+    "key": "musclePain",
+    "recommended_herbs": [],
+    "additional_herbs": []
+  },
+  {
+    "key": "bruises",
+    "recommended_herbs": [],
+    "additional_herbs": []
+  },
+  {
+    "key": "eczema",
+    "recommended_herbs": [],
+    "additional_herbs": []
+  },
+  {
+    "key": "fatigue",
+    "recommended_herbs": [],
+    "additional_herbs": []
+  },
+  {
+    "key": "swelling",
+    "recommended_herbs": [],
+    "additional_herbs": []
+  },
+  {
+    "key": "toothache",
+    "recommended_herbs": [],
+    "additional_herbs": []
+  },
+  {
+    "key": "soreThroat",
+    "recommended_herbs": [],
+    "additional_herbs": []
+  },
+  {
+    "key": "poorConcentration",
+    "recommended_herbs": [],
+    "additional_herbs": []
+  },
+  {
+    "key": "poorDigestion",
+    "recommended_herbs": [],
+    "additional_herbs": []
+  },
+  {
+    "key": "nausea",
+    "recommended_herbs": [],
+    "additional_herbs": []
+  },
+  {
+    "key": "nervousness",
+    "recommended_herbs": [],
+    "additional_herbs": []
+  },
+  {
+    "key": "drySkin",
+    "recommended_herbs": [],
+    "additional_herbs": []
+  },
+  {
+    "key": "hairLoss",
+    "recommended_herbs": [],
+    "additional_herbs": []
+  },
+  {
+    "key": "acidReflux",
+    "recommended_herbs": [],
+    "additional_herbs": []
+  },
+  {
+    "key": "waterRetention",
+    "recommended_herbs": [],
+    "additional_herbs": []
+  },
+  {
+    "key": "cold",
+    "recommended_herbs": [],
+    "additional_herbs": []
+  },
+  {
+    "key": "sinusitis",
+    "recommended_herbs": [],
+    "additional_herbs": []
+  },
+  {
+    "key": "weightLoss",
+    "recommended_herbs": [],
+    "additional_herbs": []
+  },
+  {
+    "key": "dizziness",
+    "recommended_herbs": [],
+    "additional_herbs": []
+  },
+  {
+    "key": "skinRashes",
+    "recommended_herbs": [],
+    "additional_herbs": []
+  },
+  {
+    "key": "irritability",
+    "recommended_herbs": [],
+    "additional_herbs": []
+  },
+  {
+    "key": "highBloodPressure",
+    "recommended_herbs": [],
+    "additional_herbs": []
+  },
+  {
+    "key": "cholesterol",
+    "recommended_herbs": [],
+    "additional_herbs": []
+  },
+  {
+    "key": "poorBloodCirculation",
+    "recommended_herbs": [],
+    "additional_herbs": []
+  },
+  {
+    "key": "insomnia",
+    "recommended_herbs": [],
+    "additional_herbs": []
+  },
+  {
+    "key": "cough",
+    "recommended_herbs": [],
+    "additional_herbs": []
+  },
+  {
+    "key": "varicoseVeins",
+    "recommended_herbs": [],
+    "additional_herbs": []
+  },
+  {
+    "key": "fever",
+    "recommended_herbs": [],
+    "additional_herbs": []
+  },
+  {
+    "key": "asthma",
+    "recommended_herbs": [],
+    "additional_herbs": []
+  },
+  {
+    "key": "cankerSores",
+    "recommended_herbs": [],
+    "additional_herbs": []
+  },
+  {
+    "key": "tendinitis",
+    "recommended_herbs": [],
+    "additional_herbs": []
+  },
+  {
+    "key": "anemia",
+    "recommended_herbs": [],
+    "additional_herbs": []
+  },
+  {
+    "key": "urinaryTractInfection",
+    "recommended_herbs": [],
+    "additional_herbs": []
+  },
+  {
+    "key": "constipation",
+    "recommended_herbs": [],
+    "additional_herbs": []
+  },
+  {
+    "key": "liverDisorders",
+    "recommended_herbs": [],
+    "additional_herbs": []
+  },
+  {
+    "key": "hemorrhoids",
+    "recommended_herbs": [],
+    "additional_herbs": []
+  }
 ]

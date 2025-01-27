@@ -1,5 +1,4 @@
 import json
-import os
 
 paths = {
     "en_common": "../en/common_names.json",
