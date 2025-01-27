@@ -66,18 +66,18 @@
   },
   {
     "key": "jointPain",
-    "recommended_herbs": [],
-    "additional_herbs": []
+    "recommended_herbs": ["curcumaDomestica", "filipendulaUlmaria", "harpagophytumProcumbens", "ribesNigrum"],
+    "additional_herbs": ["fraxinusOrnus", "salixAlba", "equisetumArvense"]
   },
   {
     "key": "musclePain",
-    "recommended_herbs": [],
-    "additional_herbs": []
+    "recommended_herbs": ["zingiberOfficinale", "rosmarinusOfficinalis", "filipendulaUlmaria"],
+    "additional_herbs": ["taraxacumOfficinale", "curcumaDomestica"]
   },
   {
     "key": "bruises",
-    "recommended_herbs": [],
-    "additional_herbs": []
+    "recommended_herbs": ["calendulaOfficinalis", "hamamelisVirginiana"],
+    "additional_herbs": ["ginkgoBiloba", "juniperusCommunis", "achilleaMillefolium", "hypericumPerforatum"]
   },
   {
     "key": "eczema",
