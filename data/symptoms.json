@@ -7,12 +7,27 @@
   {
     "key": "allergies",
     "recommended_herbs": ["plantagoMajor", "urticaDioca", "ribesNigrum"],
-    "additional_herbs": ["thymusVulgaris", "matricariaRecutita", "menthaXPiperita"]
+    "additional_herbs": [
+      "thymusVulgaris",
+      "matricariaRecutita",
+      "menthaXPiperita"
+    ]
   },
   {
     "key": "anxietyStress",
-    "recommended_herbs": ["melissaOfficinalis", "passifloraIncarnata", "valerianaOfficinalis", "lavandulaLatifolia", "tiliaPlatyphyllos"],
-    "additional_herbs": ["matricariaRecutita", "verbenaOfficinalis", "crataegusLaevigata", "citrusAurantium"]
+    "recommended_herbs": [
+      "melissaOfficinalis",
+      "passifloraIncarnata",
+      "valerianaOfficinalis",
+      "lavandulaAngustifolia",
+      "tiliaPlatyphyllos"
+    ],
+    "additional_herbs": [
+      "matricariaRecutita",
+      "verbenaOfficinalis",
+      "crataegusLaevigata",
+      "citrusAurantium"
+    ]
   },
   {
     "key": "lowLibido",
@@ -21,12 +36,20 @@
   },
   {
     "key": "migraine",
-    "recommended_herbs": ["tanacetumParthenium", "menthaXPiperita", "salixAlba"],
+    "recommended_herbs": [
+      "tanacetumParthenium",
+      "menthaXPiperita",
+      "salixAlba"
+    ],
     "additional_herbs": ["ginkgoBiloba", "ruscusAculeatus", "origanumMajorana"]
   },
   {
     "key": "menstrualCramps",
-    "recommended_herbs": ["achilleaMillefolium", "vitexAgnusCastus", "rubusIdaeus"],
+    "recommended_herbs": [
+      "achilleaMillefolium",
+      "vitexAgnusCastus",
+      "rubusIdaeus"
+    ],
     "additional_herbs": ["zingiberOfficinale"]
   },
   {
@@ -36,48 +59,102 @@
   },
   {
     "key": "injuriesCuts",
-    "recommended_herbs": ["hamamelisVirginiana", "calendulaOfficinalis", "achilleaMillefolium"],
-    "additional_herbs": ["panaxPseudoginseng", "matricariaRecutita", "hypericumPerforatum"]
+    "recommended_herbs": [
+      "hamamelisVirginiana",
+      "calendulaOfficinalis",
+      "achilleaMillefolium"
+    ],
+    "additional_herbs": [
+      "panaxPseudoginseng",
+      "matricariaRecutita",
+      "hypericumPerforatum"
+    ]
   },
   {
     "key": "dandruff",
-    "recommended_herbs": ["rosmarinusOfficinalis", "urticaDioca", "arctiumLappa"],
+    "recommended_herbs": [
+      "rosmarinusOfficinalis",
+      "urticaDioca",
+      "arctiumLappa"
+    ],
     "additional_herbs": ["thymusVulgaris", "juglansRegia"]
   },
   {
     "key": "diabetes",
-    "recommended_herbs": ["galegaOfficinalis", "oleaEuropaea", "trigonellaFoenumGraecum", "cinnamomumVerum"],
-    "additional_herbs": ["vacciniumMyrtillus", "juglansRegia", "polygonumAviculare"]
+    "recommended_herbs": [
+      "galegaOfficinalis",
+      "oleaEuropaea",
+      "trigonellaFoenumGraecum",
+      "cinnamomumVerum"
+    ],
+    "additional_herbs": [
+      "vacciniumMyrtillus",
+      "juglansRegia",
+      "polygonumAviculare"
+    ]
   },
   {
     "key": "diarrhea",
-    "recommended_herbs": ["lythrumSalicaria", "potentillaErecta", "foeniculumVulgare"],
+    "recommended_herbs": [
+      "lythrumSalicaria",
+      "potentillaErecta",
+      "foeniculumVulgare"
+    ],
     "additional_herbs": ["thymusVulgaris", "rubusIdaeus"]
   },
   {
     "key": "itching",
-    "recommended_herbs": ["calendulaOfficinalis", "arctiumLappa", "fumariaOfficinalis", "urticaDioca"],
+    "recommended_herbs": [
+      "calendulaOfficinalis",
+      "arctiumLappa",
+      "fumariaOfficinalis",
+      "urticaDioca"
+    ],
     "additional_herbs": ["plantagoMajor", "avenaSativa", "matricariaRecutita"]
   },
   {
     "key": "backPain",
-    "recommended_herbs": ["filipendulaUlmaria", "salixAlba", "valerianaOfficinalis", "harpagophytumProcumbens"],
-    "additional_herbs": ["equisetumArvense", "ribesNigrum", "curcumaDomestica", "ruscusAculeatus"]
+    "recommended_herbs": [
+      "filipendulaUlmaria",
+      "salixAlba",
+      "valerianaOfficinalis",
+      "harpagophytumProcumbens"
+    ],
+    "additional_herbs": [
+      "equisetumArvense",
+      "ribesNigrum",
+      "curcumaDomestica",
+      "ruscusAculeatus"
+    ]
   },
   {
     "key": "jointPain",
-    "recommended_herbs": ["curcumaDomestica", "filipendulaUlmaria", "harpagophytumProcumbens", "ribesNigrum"],
+    "recommended_herbs": [
+      "curcumaDomestica",
+      "filipendulaUlmaria",
+      "harpagophytumProcumbens",
+      "ribesNigrum"
+    ],
     "additional_herbs": ["fraxinusOrnus", "salixAlba", "equisetumArvense"]
   },
   {
     "key": "musclePain",
-    "recommended_herbs": ["zingiberOfficinale", "rosmarinusOfficinalis", "filipendulaUlmaria"],
+    "recommended_herbs": [
+      "zingiberOfficinale",
+      "rosmarinusOfficinalis",
+      "filipendulaUlmaria"
+    ],
     "additional_herbs": ["taraxacumOfficinale", "curcumaDomestica"]
   },
   {
     "key": "bruises",
     "recommended_herbs": ["calendulaOfficinalis", "hamamelisVirginiana"],
-    "additional_herbs": ["ginkgoBiloba", "juniperusCommunis", "achilleaMillefolium", "hypericumPerforatum"]
+    "additional_herbs": [
+      "ginkgoBiloba",
+      "juniperusCommunis",
+      "achilleaMillefolium",
+      "hypericumPerforatum"
+    ]
   },
   {
     "key": "eczema",
