@@ -158,63 +158,63 @@
   },
   {
     "key": "eczema",
-    "recommended_herbs": [],
-    "additional_herbs": []
+    "recommended_herbs": ["violaArvensis", "calendulaOfficinalis", "arctiumLappa"],
+    "additional_herbs": ["matricariaRecutita", "glycyrrhizaGlabra", "urticaDioca"]
   },
   {
     "key": "fatigue",
-    "recommended_herbs": [],
-    "additional_herbs": []
+    "recommended_herbs": ["eleutherococcusSenticosus", "panaxGinseng", "paulliniaCupana", "ilexParaguariensis"],
+    "additional_herbs": ["camelliaSinensis", "rosmarinusOfficinalis", "zingiberOfficinale"]
   },
   {
     "key": "swelling",
-    "recommended_herbs": [],
-    "additional_herbs": []
+    "recommended_herbs": ["taraxacumOfficinale", "filipendulaUlmaria", "ruscusAculeatus"],
+    "additional_herbs": ["petroselinumCrispum", "vitisVinifera", "equisetumArvense", "fraxinusOrnus"]
   },
   {
     "key": "toothache",
-    "recommended_herbs": [],
-    "additional_herbs": []
+    "recommended_herbs": ["syzygiumAromaticum", "matricariaRecutita", "salviaOfficinalis"],
+    "additional_herbs": ["menthaXPiperita", "thymusVulgaris"]
   },
   {
     "key": "soreThroat",
-    "recommended_herbs": [],
-    "additional_herbs": []
+    "recommended_herbs": ["thymusVulgaris", "zingiberOfficinale", "salviaOfficinalis"],
+    "additional_herbs": ["cymbopogonCitratus", "matricariaRecutita", "althaeaOfficinalis"]
   },
   {
     "key": "poorConcentration",
-    "recommended_herbs": [],
-    "additional_herbs": []
+    "recommended_herbs": ["ginkgoBiloba", "rosmarinusOfficinalis"],
+    "additional_herbs": ["menthaXPiperita", "hypericumPerforatum", "eleutherococcusSenticosus"]
   },
   {
     "key": "poorDigestion",
-    "recommended_herbs": [],
-    "additional_herbs": []
+    "recommended_herbs": ["menthaXPiperita", "pimpinellaAnisum", "foeniculumVulgare"],
+    "additional_herbs": ["zingiberOfficinale", "carumCarvi", "verbenaOfficinalis"]
   },
   {
     "key": "nausea",
-    "recommended_herbs": [],
-    "additional_herbs": []
+    "recommended_herbs": ["zingiberOfficinale", "melissaOfficinalis", "menthaXPiperita"],
+    "additional_herbs": ["origanumMajorana", "ocimumBasilicum", "cinnamomumVerum"]
   },
   {
     "key": "nervousness",
-    "recommended_herbs": [],
-    "additional_herbs": []
+    "recommended_herbs": ["lavandulaAngustifolia", "melissaOfficinalis", "passifloraIncarnata"],
+    "additional_herbs": ["matricariaRecutita", "passifloraIncarnata", "verbenaOfficinalis"]
   },
   {
     "key": "drySkin",
-    "recommended_herbs": [],
-    "additional_herbs": []
+    "recommended_herbs": ["boragoOfficinalis", "rosaDamascena", "calendulaOfficinalis"],
+    "additional_herbs": ["urticaDioca", "matricariaRecutita", "avenaSativa"]
   },
   {
     "key": "hairLoss",
-    "recommended_herbs": [],
-    "additional_herbs": []
+    "recommended_herbs": ["urticaDioca", "arctiumLappa", "rosmarinusOfficinalis"],
+    "additional_herbs": ["taraxacumOfficinale", "pelargoniumSidoides"]
   },
   {
     "key": "acidReflux",
-    "recommended_herbs": [],
-    "additional_herbs": []
+    "recommended_herbs": ["glycyrrhizaGlabra", "verbenaOfficinalis", "curcumaDomestica"],
+    "additional_herbs": ["marrubiumVulgare", "gentianaLutea", "foeniculumVulgare"]
   },
   {
     "key": "waterRetention",
@@ -223,8 +223,8 @@
   },
   {
     "key": "cold",
-    "recommended_herbs": [],
-    "additional_herbs": []
+    "recommended_herbs": ["eucalyptusGlobulus", "thymusVulgaris", "plantagoMajor", "malvaSylvestris", "althaeaOfficinalis"],
+    "additional_herbs": ["alliumSativum", "rosmarinusOfficinalis", "echinaceaAngustifolia", "menthaXPiperita", "sambucusNigra"]
   },
   {
     "key": "sinusitis",
@@ -233,13 +233,13 @@
   },
   {
     "key": "weightLoss",
-    "recommended_herbs": [],
-    "additional_herbs": []
+    "recommended_herbs": ["foeniculumVulgare", "cinnamomumVerum", "taraxacumOfficinale"],
+    "additional_herbs": ["pimpinellaAnisum", "ilexParaguariensis", "zingiberOfficinale"]
   },
   {
     "key": "dizziness",
-    "recommended_herbs": [],
-    "additional_herbs": []
+    "recommended_herbs": ["ginkgoBiloba", "melissaOfficinalis", "zingiberOfficinale"],
+    "additional_herbs": ["veronicaOfficinalis", "menthaXPiperita"]
   },
   {
     "key": "skinRashes",
