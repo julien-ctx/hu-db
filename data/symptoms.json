@@ -248,18 +248,18 @@
   },
   {
     "key": "irritability",
-    "recommended_herbs": [],
-    "additional_herbs": []
+    "recommended_herbs": ["melissaOfficinalis", "tiliaPlatyphyllos", "crataegusLaevigata", "valerianaOfficinalis"],
+    "additional_herbs": ["passifloraIncarnata", "lavandulaAngustifolia", "matricariaRecutita"]
   },
   {
     "key": "highBloodPressure",
-    "recommended_herbs": [],
-    "additional_herbs": []
+    "recommended_herbs": ["crataegusLaevigata", "alliumSativum", "oleaEuropaea"],
+    "additional_herbs": ["vitisVinifera", "hibiscusSabdariffa", "lavandulaAngustifolia"]
   },
   {
     "key": "cholesterol",
-    "recommended_herbs": [],
-    "additional_herbs": []
+    "recommended_herbs": ["cynaraScolymus", "camelliaSinensis", "curcumaDomestica", "oleaEuropaea"],
+    "additional_herbs": ["silybumMarianum", "trigonellaFoenumGraecum", "alliumSativum", "vitisVinifera"]
   },
   {
     "key": "poorBloodCirculation",
@@ -268,13 +268,13 @@
   },
   {
     "key": "insomnia",
-    "recommended_herbs": [],
-    "additional_herbs": []
+    "recommended_herbs": ["melissaOfficinalis", "tiliaPlatyphyllos", "valerianaOfficinalis", "passifloraIncarnata"],
+    "additional_herbs": ["matricariaRecutita", "lavandulaAngustifolia", "humulusLupulus"]
   },
   {
     "key": "cough",
-    "recommended_herbs": [],
-    "additional_herbs": []
+    "recommended_herbs": ["thymusVulgaris", "althaeaOfficinalis", "menthaXPiperita"],
+    "additional_herbs": ["sambucusNigra", "eucalyptusGlobulus", "plantagoMajor"]
   },
   {
     "key": "varicoseVeins",
