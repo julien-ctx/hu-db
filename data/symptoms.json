@@ -467,33 +467,83 @@
   },
   {
     "key": "asthma",
-    "recommended_herbs": [],
-    "additional_herbs": []
+    "recommended_herbs": [
+      "verbascumThapsus",
+      "thymusVulgaris",
+      "marrubiumVulgare",
+      "plantagoMajor"
+    ],
+    "additional_herbs": [
+      "glycyrrhizaGlabra",
+      "zingiberOfficinale",
+      "matricariaRecutita"
+    ]
   },
   {
     "key": "cankerSores",
-    "recommended_herbs": [],
-    "additional_herbs": []
+    "recommended_herbs": [
+      "salviaOfficinalis",
+      "thymusVulgaris",
+      "malvaSylvestris",
+      "matricariaRecutita"
+    ],
+    "additional_herbs": [
+      "glycyrrhizaGlabra",
+      "laurusNobilis",
+      "krameriaTriandra",
+      "syzygiumAromaticum"
+    ]
   },
   {
     "key": "tendinitis",
-    "recommended_herbs": [],
-    "additional_herbs": []
+    "recommended_herbs": [
+      "harpagophytumProcumbens",
+      "curcumaDomestica",
+      "filipendulaUlmaria"
+    ],
+    "additional_herbs": [
+      "ribesNigrum",
+      "salixAlba",
+      "zingiberOfficinale",
+      "urticaDioca"
+    ]
   },
   {
     "key": "anemia",
-    "recommended_herbs": [],
-    "additional_herbs": []
+    "recommended_herbs": [
+      "urticaDioca",
+      "taraxacumOfficinale",
+      "trigonellaFoenumGraecum"
+    ],
+    "additional_herbs": [
+      "petroselinumCrispum",
+      "thymusVulgaris",
+      "melissaOfficinalis",
+      "lyciumBarbarum"
+    ]
   },
   {
     "key": "urinaryTractInfection",
-    "recommended_herbs": [],
-    "additional_herbs": []
+    "recommended_herbs": [
+      "arctostaphylosUvaUrsi",
+      "callunaVulgaris",
+      "urticaDioca"
+    ],
+    "additional_herbs": [
+      "orthosiphonStamineus",
+      "solidagoVirgaurea",
+      "taraxacumOfficinale"
+    ]
   },
   {
     "key": "constipation",
-    "recommended_herbs": [],
-    "additional_herbs": []
+    "recommended_herbs": [
+      "malvaSylvestris",
+      "cassiaAngustifolia",
+      "foeniculumVulgare",
+      "althaeaOfficinalis"
+    ],
+    "additional_herbs": ["linumUsitatissimum", "rheumOfficinale"]
   },
   {
     "key": "liverDisorders",
