@@ -1,10 +1,12 @@
 [
   {
+    "id": 0,
     "key": "acne",
     "recommended_herbs": ["urticaDioca", "arctiumLappa", "violaArvensis"],
     "other_options_herbs": ["achilleaMillefolium", "calendulaOfficinalis"]
   },
   {
+    "id": 1,
     "key": "allergies",
     "recommended_herbs": ["plantagoMajor", "urticaDioca", "ribesNigrum"],
     "other_options_herbs": [
@@ -14,6 +16,7 @@
     ]
   },
   {
+    "id": 2,
     "key": "anxietyStress",
     "recommended_herbs": [
       "melissaOfficinalis",
@@ -30,11 +33,13 @@
     ]
   },
   {
+    "id": 3,
     "key": "lowLibido",
     "recommended_herbs": ["zingiberOfficinale", "panaxGinseng"],
     "other_options_herbs": ["cinnamomumVerum", "trigonellaFoenumGraecum"]
   },
   {
+    "id": 4,
     "key": "migraine",
     "recommended_herbs": [
       "tanacetumParthenium",
@@ -48,6 +53,7 @@
     ]
   },
   {
+    "id": 5,
     "key": "menstrualCramps",
     "recommended_herbs": [
       "achilleaMillefolium",
@@ -57,11 +63,13 @@
     "other_options_herbs": ["zingiberOfficinale"]
   },
   {
+    "id": 6,
     "key": "muscleCramps",
     "recommended_herbs": ["vitisVinifera", "equisetumArvense"],
     "other_options_herbs": ["salviaOfficinalis", "achilleaMillefolium"]
   },
   {
+    "id": 7,
     "key": "injuriesCuts",
     "recommended_herbs": [
       "hamamelisVirginiana",
@@ -75,6 +83,7 @@
     ]
   },
   {
+    "id": 8,
     "key": "dandruff",
     "recommended_herbs": [
       "rosmarinusOfficinalis",
@@ -84,6 +93,7 @@
     "other_options_herbs": ["thymusVulgaris", "juglansRegia"]
   },
   {
+    "id": 9,
     "key": "diabetes",
     "recommended_herbs": [
       "galegaOfficinalis",
@@ -98,6 +108,7 @@
     ]
   },
   {
+    "id": 10,
     "key": "diarrhea",
     "recommended_herbs": [
       "lythrumSalicaria",
@@ -107,6 +118,7 @@
     "other_options_herbs": ["thymusVulgaris", "rubusIdaeus"]
   },
   {
+    "id": 11,
     "key": "itching",
     "recommended_herbs": [
       "calendulaOfficinalis",
@@ -121,6 +133,7 @@
     ]
   },
   {
+    "id": 12,
     "key": "backPain",
     "recommended_herbs": [
       "filipendulaUlmaria",
@@ -136,6 +149,7 @@
     ]
   },
   {
+    "id": 13,
     "key": "jointPain",
     "recommended_herbs": [
       "curcumaDomestica",
@@ -146,6 +160,7 @@
     "other_options_herbs": ["fraxinusOrnus", "salixAlba", "equisetumArvense"]
   },
   {
+    "id": 14,
     "key": "musclePain",
     "recommended_herbs": [
       "zingiberOfficinale",
@@ -155,6 +170,7 @@
     "other_options_herbs": ["taraxacumOfficinale", "curcumaDomestica"]
   },
   {
+    "id": 15,
     "key": "bruises",
     "recommended_herbs": ["calendulaOfficinalis", "hamamelisVirginiana"],
     "other_options_herbs": [
@@ -165,6 +181,7 @@
     ]
   },
   {
+    "id": 16,
     "key": "eczema",
     "recommended_herbs": [
       "violaArvensis",
@@ -178,6 +195,7 @@
     ]
   },
   {
+    "id": 17,
     "key": "fatigue",
     "recommended_herbs": [
       "eleutherococcusSenticosus",
@@ -192,6 +210,7 @@
     ]
   },
   {
+    "id": 18,
     "key": "swelling",
     "recommended_herbs": [
       "taraxacumOfficinale",
@@ -206,6 +225,7 @@
     ]
   },
   {
+    "id": 19,
     "key": "toothache",
     "recommended_herbs": [
       "syzygiumAromaticum",
@@ -215,6 +235,7 @@
     "other_options_herbs": ["menthaXPiperita", "thymusVulgaris"]
   },
   {
+    "id": 20,
     "key": "soreThroat",
     "recommended_herbs": [
       "thymusVulgaris",
@@ -228,6 +249,7 @@
     ]
   },
   {
+    "id": 21,
     "key": "poorConcentration",
     "recommended_herbs": ["ginkgoBiloba", "rosmarinusOfficinalis"],
     "other_options_herbs": [
@@ -237,6 +259,7 @@
     ]
   },
   {
+    "id": 22,
     "key": "poorDigestion",
     "recommended_herbs": [
       "menthaXPiperita",
@@ -250,6 +273,7 @@
     ]
   },
   {
+    "id": 23,
     "key": "nausea",
     "recommended_herbs": [
       "zingiberOfficinale",
@@ -263,6 +287,7 @@
     ]
   },
   {
+    "id": 24,
     "key": "nervousness",
     "recommended_herbs": [
       "lavandulaAngustifolia",
@@ -276,6 +301,7 @@
     ]
   },
   {
+    "id": 25,
     "key": "drySkin",
     "recommended_herbs": [
       "boragoOfficinalis",
@@ -285,6 +311,7 @@
     "other_options_herbs": ["urticaDioca", "matricariaRecutita", "avenaSativa"]
   },
   {
+    "id": 26,
     "key": "hairLoss",
     "recommended_herbs": [
       "urticaDioca",
@@ -294,6 +321,7 @@
     "other_options_herbs": ["taraxacumOfficinale", "pelargoniumSidoides"]
   },
   {
+    "id": 27,
     "key": "acidReflux",
     "recommended_herbs": [
       "glycyrrhizaGlabra",
@@ -307,6 +335,7 @@
     ]
   },
   {
+    "id": 28,
     "key": "waterRetention",
     "recommended_herbs": [
       "taraxacumOfficinale",
@@ -316,6 +345,7 @@
     "other_options_herbs": ["hibiscusSabdariffa", "urticaDioca"]
   },
   {
+    "id": 29,
     "key": "cold",
     "recommended_herbs": [
       "eucalyptusGlobulus",
@@ -333,6 +363,7 @@
     ]
   },
   {
+    "id": 30,
     "key": "sinusitis",
     "recommended_herbs": [
       "thymusVulgaris",
@@ -343,6 +374,7 @@
     "other_options_herbs": ["plantagoMajor", "rosmarinusOfficinalis"]
   },
   {
+    "id": 31,
     "key": "weightLoss",
     "recommended_herbs": [
       "foeniculumVulgare",
@@ -356,6 +388,7 @@
     ]
   },
   {
+    "id": 32,
     "key": "dizziness",
     "recommended_herbs": [
       "ginkgoBiloba",
@@ -365,6 +398,7 @@
     "other_options_herbs": ["veronicaOfficinalis", "menthaXPiperita"]
   },
   {
+    "id": 33,
     "key": "skinRashes",
     "recommended_herbs": [
       "calendulaOfficinalis",
@@ -374,6 +408,7 @@
     "other_options_herbs": ["urticaDioca", "matricariaRecutita"]
   },
   {
+    "id": 34,
     "key": "irritability",
     "recommended_herbs": [
       "melissaOfficinalis",
@@ -388,6 +423,7 @@
     ]
   },
   {
+    "id": 35,
     "key": "highBloodPressure",
     "recommended_herbs": [
       "crataegusLaevigata",
@@ -401,6 +437,7 @@
     ]
   },
   {
+    "id": 36,
     "key": "cholesterol",
     "recommended_herbs": [
       "cynaraScolymus",
@@ -416,6 +453,7 @@
     ]
   },
   {
+    "id": 37,
     "key": "poorBloodCirculation",
     "recommended_herbs": [
       "ginkgoBiloba",
@@ -431,6 +469,7 @@
     ]
   },
   {
+    "id": 38,
     "key": "insomnia",
     "recommended_herbs": [
       "melissaOfficinalis",
@@ -445,6 +484,7 @@
     ]
   },
   {
+    "id": 39,
     "key": "cough",
     "recommended_herbs": [
       "thymusVulgaris",
@@ -458,6 +498,7 @@
     ]
   },
   {
+    "id": 40,
     "key": "varicoseVeins",
     "recommended_herbs": [
       "aesculusHippocastanum",
@@ -468,6 +509,7 @@
     "other_options_herbs": ["ribesNigrum", "centellaAsiatica", "ginkgoBiloba"]
   },
   {
+    "id": 41,
     "key": "fever",
     "recommended_herbs": [
       "salixAlba",
@@ -478,6 +520,7 @@
     "other_options_herbs": ["centauriumErythraea", "matricariaRecutita"]
   },
   {
+    "id": 42,
     "key": "asthma",
     "recommended_herbs": [
       "verbascumThapsus",
@@ -492,6 +535,7 @@
     ]
   },
   {
+    "id": 43,
     "key": "cankerSores",
     "recommended_herbs": [
       "salviaOfficinalis",
@@ -507,6 +551,7 @@
     ]
   },
   {
+    "id": 44,
     "key": "tendinitis",
     "recommended_herbs": [
       "harpagophytumProcumbens",
@@ -521,6 +566,7 @@
     ]
   },
   {
+    "id": 45,
     "key": "anemia",
     "recommended_herbs": [
       "urticaDioca",
@@ -535,6 +581,7 @@
     ]
   },
   {
+    "id": 46,
     "key": "urinaryTractInfection",
     "recommended_herbs": [
       "arctostaphylosUvaUrsi",
@@ -548,6 +595,7 @@
     ]
   },
   {
+    "id": 47,
     "key": "constipation",
     "recommended_herbs": [
       "malvaSylvestris",
@@ -558,6 +606,7 @@
     "other_options_herbs": ["linumUsitatissimum", "rheumOfficinale"]
   },
   {
+    "id": 48,
     "key": "liverDisorders",
     "recommended_herbs": [
       "silybumMarianum",
@@ -572,6 +621,7 @@
     ]
   },
   {
+    "id": 49,
     "key": "hemorrhoids",
     "recommended_herbs": [
       "hamamelisVirginiana",
