@@ -2,12 +2,12 @@
   {
     "key": "acne",
     "recommended_herbs": ["urticaDioca", "arctiumLappa", "violaArvensis"],
-    "additional_herbs": ["achilleaMillefolium", "calendulaOfficinalis"]
+    "other_options_herbs": ["achilleaMillefolium", "calendulaOfficinalis"]
   },
   {
     "key": "allergies",
     "recommended_herbs": ["plantagoMajor", "urticaDioca", "ribesNigrum"],
-    "additional_herbs": [
+    "other_options_herbs": [
       "thymusVulgaris",
       "matricariaRecutita",
       "menthaXPiperita"
@@ -22,7 +22,7 @@
       "lavandulaAngustifolia",
       "tiliaPlatyphyllos"
     ],
-    "additional_herbs": [
+    "other_options_herbs": [
       "matricariaRecutita",
       "verbenaOfficinalis",
       "crataegusLaevigata",
@@ -32,7 +32,7 @@
   {
     "key": "lowLibido",
     "recommended_herbs": ["zingiberOfficinale", "panaxGinseng"],
-    "additional_herbs": ["cinnamomumVerum", "trigonellaFoenumGraecum"]
+    "other_options_herbs": ["cinnamomumVerum", "trigonellaFoenumGraecum"]
   },
   {
     "key": "migraine",
@@ -41,7 +41,11 @@
       "menthaXPiperita",
       "salixAlba"
     ],
-    "additional_herbs": ["ginkgoBiloba", "ruscusAculeatus", "origanumMajorana"]
+    "other_options_herbs": [
+      "ginkgoBiloba",
+      "ruscusAculeatus",
+      "origanumMajorana"
+    ]
   },
   {
     "key": "menstrualCramps",
@@ -50,12 +54,12 @@
       "vitexAgnusCastus",
       "rubusIdaeus"
     ],
-    "additional_herbs": ["zingiberOfficinale"]
+    "other_options_herbs": ["zingiberOfficinale"]
   },
   {
     "key": "muscleCramps",
     "recommended_herbs": ["vitisVinifera", "equisetumArvense"],
-    "additional_herbs": ["salviaOfficinalis", "achilleaMillefolium"]
+    "other_options_herbs": ["salviaOfficinalis", "achilleaMillefolium"]
   },
   {
     "key": "injuriesCuts",
@@ -64,7 +68,7 @@
       "calendulaOfficinalis",
       "achilleaMillefolium"
     ],
-    "additional_herbs": [
+    "other_options_herbs": [
       "panaxPseudoginseng",
       "matricariaRecutita",
       "hypericumPerforatum"
@@ -77,7 +81,7 @@
       "urticaDioca",
       "arctiumLappa"
     ],
-    "additional_herbs": ["thymusVulgaris", "juglansRegia"]
+    "other_options_herbs": ["thymusVulgaris", "juglansRegia"]
   },
   {
     "key": "diabetes",
@@ -87,7 +91,7 @@
       "trigonellaFoenumGraecum",
       "cinnamomumVerum"
     ],
-    "additional_herbs": [
+    "other_options_herbs": [
       "vacciniumMyrtillus",
       "juglansRegia",
       "polygonumAviculare"
@@ -100,7 +104,7 @@
       "potentillaErecta",
       "foeniculumVulgare"
     ],
-    "additional_herbs": ["thymusVulgaris", "rubusIdaeus"]
+    "other_options_herbs": ["thymusVulgaris", "rubusIdaeus"]
   },
   {
     "key": "itching",
@@ -110,7 +114,11 @@
       "fumariaOfficinalis",
       "urticaDioca"
     ],
-    "additional_herbs": ["plantagoMajor", "avenaSativa", "matricariaRecutita"]
+    "other_options_herbs": [
+      "plantagoMajor",
+      "avenaSativa",
+      "matricariaRecutita"
+    ]
   },
   {
     "key": "backPain",
@@ -120,7 +128,7 @@
       "valerianaOfficinalis",
       "harpagophytumProcumbens"
     ],
-    "additional_herbs": [
+    "other_options_herbs": [
       "equisetumArvense",
       "ribesNigrum",
       "curcumaDomestica",
@@ -135,7 +143,7 @@
       "harpagophytumProcumbens",
       "ribesNigrum"
     ],
-    "additional_herbs": ["fraxinusOrnus", "salixAlba", "equisetumArvense"]
+    "other_options_herbs": ["fraxinusOrnus", "salixAlba", "equisetumArvense"]
   },
   {
     "key": "musclePain",
@@ -144,12 +152,12 @@
       "rosmarinusOfficinalis",
       "filipendulaUlmaria"
     ],
-    "additional_herbs": ["taraxacumOfficinale", "curcumaDomestica"]
+    "other_options_herbs": ["taraxacumOfficinale", "curcumaDomestica"]
   },
   {
     "key": "bruises",
     "recommended_herbs": ["calendulaOfficinalis", "hamamelisVirginiana"],
-    "additional_herbs": [
+    "other_options_herbs": [
       "ginkgoBiloba",
       "juniperusCommunis",
       "achilleaMillefolium",
@@ -163,7 +171,7 @@
       "calendulaOfficinalis",
       "arctiumLappa"
     ],
-    "additional_herbs": [
+    "other_options_herbs": [
       "matricariaRecutita",
       "glycyrrhizaGlabra",
       "urticaDioca"
@@ -177,7 +185,7 @@
       "paulliniaCupana",
       "ilexParaguariensis"
     ],
-    "additional_herbs": [
+    "other_options_herbs": [
       "camelliaSinensis",
       "rosmarinusOfficinalis",
       "zingiberOfficinale"
@@ -190,7 +198,7 @@
       "filipendulaUlmaria",
       "ruscusAculeatus"
     ],
-    "additional_herbs": [
+    "other_options_herbs": [
       "petroselinumCrispum",
       "vitisVinifera",
       "equisetumArvense",
@@ -204,7 +212,7 @@
       "matricariaRecutita",
       "salviaOfficinalis"
     ],
-    "additional_herbs": ["menthaXPiperita", "thymusVulgaris"]
+    "other_options_herbs": ["menthaXPiperita", "thymusVulgaris"]
   },
   {
     "key": "soreThroat",
@@ -213,7 +221,7 @@
       "zingiberOfficinale",
       "salviaOfficinalis"
     ],
-    "additional_herbs": [
+    "other_options_herbs": [
       "cymbopogonCitratus",
       "matricariaRecutita",
       "althaeaOfficinalis"
@@ -222,7 +230,7 @@
   {
     "key": "poorConcentration",
     "recommended_herbs": ["ginkgoBiloba", "rosmarinusOfficinalis"],
-    "additional_herbs": [
+    "other_options_herbs": [
       "menthaXPiperita",
       "hypericumPerforatum",
       "eleutherococcusSenticosus"
@@ -235,7 +243,7 @@
       "pimpinellaAnisum",
       "foeniculumVulgare"
     ],
-    "additional_herbs": [
+    "other_options_herbs": [
       "zingiberOfficinale",
       "carumCarvi",
       "verbenaOfficinalis"
@@ -248,7 +256,7 @@
       "melissaOfficinalis",
       "menthaXPiperita"
     ],
-    "additional_herbs": [
+    "other_options_herbs": [
       "origanumMajorana",
       "ocimumBasilicum",
       "cinnamomumVerum"
@@ -261,7 +269,7 @@
       "melissaOfficinalis",
       "passifloraIncarnata"
     ],
-    "additional_herbs": [
+    "other_options_herbs": [
       "matricariaRecutita",
       "passifloraIncarnata",
       "verbenaOfficinalis"
@@ -274,7 +282,7 @@
       "rosaDamascena",
       "calendulaOfficinalis"
     ],
-    "additional_herbs": ["urticaDioca", "matricariaRecutita", "avenaSativa"]
+    "other_options_herbs": ["urticaDioca", "matricariaRecutita", "avenaSativa"]
   },
   {
     "key": "hairLoss",
@@ -283,7 +291,7 @@
       "arctiumLappa",
       "rosmarinusOfficinalis"
     ],
-    "additional_herbs": ["taraxacumOfficinale", "pelargoniumSidoides"]
+    "other_options_herbs": ["taraxacumOfficinale", "pelargoniumSidoides"]
   },
   {
     "key": "acidReflux",
@@ -292,7 +300,7 @@
       "verbenaOfficinalis",
       "curcumaDomestica"
     ],
-    "additional_herbs": [
+    "other_options_herbs": [
       "marrubiumVulgare",
       "gentianaLutea",
       "foeniculumVulgare"
@@ -305,7 +313,7 @@
       "orthosiphonStamineus",
       "filipendulaUlmaria"
     ],
-    "additional_herbs": ["hibiscusSabdariffa", "urticaDioca"]
+    "other_options_herbs": ["hibiscusSabdariffa", "urticaDioca"]
   },
   {
     "key": "cold",
@@ -316,7 +324,7 @@
       "malvaSylvestris",
       "althaeaOfficinalis"
     ],
-    "additional_herbs": [
+    "other_options_herbs": [
       "alliumSativum",
       "rosmarinusOfficinalis",
       "echinaceaAngustifolia",
@@ -332,7 +340,7 @@
       "menthaXPiperita",
       "sambucusNigra"
     ],
-    "additional_herbs": ["plantagoMajor", "rosmarinusOfficinalis"]
+    "other_options_herbs": ["plantagoMajor", "rosmarinusOfficinalis"]
   },
   {
     "key": "weightLoss",
@@ -341,7 +349,7 @@
       "cinnamomumVerum",
       "taraxacumOfficinale"
     ],
-    "additional_herbs": [
+    "other_options_herbs": [
       "pimpinellaAnisum",
       "ilexParaguariensis",
       "zingiberOfficinale"
@@ -354,7 +362,7 @@
       "melissaOfficinalis",
       "zingiberOfficinale"
     ],
-    "additional_herbs": ["veronicaOfficinalis", "menthaXPiperita"]
+    "other_options_herbs": ["veronicaOfficinalis", "menthaXPiperita"]
   },
   {
     "key": "skinRashes",
@@ -363,7 +371,7 @@
       "arctiumLappa",
       "violaArvensis"
     ],
-    "additional_herbs": ["urticaDioca", "matricariaRecutita"]
+    "other_options_herbs": ["urticaDioca", "matricariaRecutita"]
   },
   {
     "key": "irritability",
@@ -373,7 +381,7 @@
       "crataegusLaevigata",
       "valerianaOfficinalis"
     ],
-    "additional_herbs": [
+    "other_options_herbs": [
       "passifloraIncarnata",
       "lavandulaAngustifolia",
       "matricariaRecutita"
@@ -386,7 +394,7 @@
       "alliumSativum",
       "oleaEuropaea"
     ],
-    "additional_herbs": [
+    "other_options_herbs": [
       "vitisVinifera",
       "hibiscusSabdariffa",
       "lavandulaAngustifolia"
@@ -400,7 +408,7 @@
       "curcumaDomestica",
       "oleaEuropaea"
     ],
-    "additional_herbs": [
+    "other_options_herbs": [
       "silybumMarianum",
       "trigonellaFoenumGraecum",
       "alliumSativum",
@@ -415,7 +423,7 @@
       "ruscusAculeatus",
       "aesculusHippocastanum"
     ],
-    "additional_herbs": [
+    "other_options_herbs": [
       "ribesNigrum",
       "hamamelisVirginiana",
       "vacciniumMyrtillus",
@@ -430,7 +438,7 @@
       "valerianaOfficinalis",
       "passifloraIncarnata"
     ],
-    "additional_herbs": [
+    "other_options_herbs": [
       "matricariaRecutita",
       "lavandulaAngustifolia",
       "humulusLupulus"
@@ -443,7 +451,11 @@
       "althaeaOfficinalis",
       "menthaXPiperita"
     ],
-    "additional_herbs": ["sambucusNigra", "eucalyptusGlobulus", "plantagoMajor"]
+    "other_options_herbs": [
+      "sambucusNigra",
+      "eucalyptusGlobulus",
+      "plantagoMajor"
+    ]
   },
   {
     "key": "varicoseVeins",
@@ -453,7 +465,7 @@
       "ruscusAculeatus",
       "vitisVinifera"
     ],
-    "additional_herbs": ["ribesNigrum", "centellaAsiatica", "ginkgoBiloba"]
+    "other_options_herbs": ["ribesNigrum", "centellaAsiatica", "ginkgoBiloba"]
   },
   {
     "key": "fever",
@@ -463,7 +475,7 @@
       "filipendulaUlmaria",
       "sambucusNigra"
     ],
-    "additional_herbs": ["centauriumErythraea", "matricariaRecutita"]
+    "other_options_herbs": ["centauriumErythraea", "matricariaRecutita"]
   },
   {
     "key": "asthma",
@@ -473,7 +485,7 @@
       "marrubiumVulgare",
       "plantagoMajor"
     ],
-    "additional_herbs": [
+    "other_options_herbs": [
       "glycyrrhizaGlabra",
       "zingiberOfficinale",
       "matricariaRecutita"
@@ -487,7 +499,7 @@
       "malvaSylvestris",
       "matricariaRecutita"
     ],
-    "additional_herbs": [
+    "other_options_herbs": [
       "glycyrrhizaGlabra",
       "laurusNobilis",
       "krameriaTriandra",
@@ -501,7 +513,7 @@
       "curcumaDomestica",
       "filipendulaUlmaria"
     ],
-    "additional_herbs": [
+    "other_options_herbs": [
       "ribesNigrum",
       "salixAlba",
       "zingiberOfficinale",
@@ -515,7 +527,7 @@
       "taraxacumOfficinale",
       "trigonellaFoenumGraecum"
     ],
-    "additional_herbs": [
+    "other_options_herbs": [
       "petroselinumCrispum",
       "thymusVulgaris",
       "melissaOfficinalis",
@@ -529,7 +541,7 @@
       "callunaVulgaris",
       "urticaDioca"
     ],
-    "additional_herbs": [
+    "other_options_herbs": [
       "orthosiphonStamineus",
       "solidagoVirgaurea",
       "taraxacumOfficinale"
@@ -543,7 +555,7 @@
       "foeniculumVulgare",
       "althaeaOfficinalis"
     ],
-    "additional_herbs": ["linumUsitatissimum", "rheumOfficinale"]
+    "other_options_herbs": ["linumUsitatissimum", "rheumOfficinale"]
   },
   {
     "key": "liverDisorders",
@@ -552,7 +564,7 @@
       "cynaraScolymus",
       "rosmarinusOfficinalis"
     ],
-    "additional_herbs": [
+    "other_options_herbs": [
       "taraxacumOfficinale",
       "curcumaDomestica",
       "juniperusCommunis",
@@ -567,7 +579,7 @@
       "cupressusSempervirens",
       "vitisVinifera"
     ],
-    "additional_herbs": [
+    "other_options_herbs": [
       "ribesNigrum",
       "verbascumThapsus",
       "hederaHelix",

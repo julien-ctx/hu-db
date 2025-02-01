@@ -1,6 +1,6 @@
 [
   {
-    "id": 1,
+    "id": 0,
     "key": "apiumGraveolens",
     "image_link": "https://raw.githubusercontent.com/julien-ctx/hu-db/refs/heads/main/images/apiumGraveolens.jpg",
     "scientific_name": "Apium graveolens",
@@ -49,7 +49,7 @@
     }
   },
   {
-    "id": 2,
+    "id": 1,
     "key": "achyranthesBidentata",
     "image_link": "https://raw.githubusercontent.com/julien-ctx/hu-db/refs/heads/main/images/achyranthesBidentata.jpg",
     "scientific_name": "Achyranthes bidentata",
@@ -96,7 +96,7 @@
     }
   },
   {
-    "id": 3,
+    "id": 2,
     "key": "acorusCalamus",
     "image_link": "https://raw.githubusercontent.com/julien-ctx/hu-db/refs/heads/main/images/acorusCalamus.jpg",
     "scientific_name": "Acorus calamus L.",
@@ -138,7 +138,7 @@
     }
   },
   {
-    "id": 4,
+    "id": 3,
     "key": "cimicifugaRacemosa",
     "image_link": "https://raw.githubusercontent.com/julien-ctx/hu-db/refs/heads/main/images/cimicifugaRacemosa.jpg",
     "scientific_name": "Cimicifuga racemosa",
@@ -183,7 +183,7 @@
     }
   },
   {
-    "id": 5,
+    "id": 4,
     "key": "ageratumConyzoides",
     "image_link": "https://raw.githubusercontent.com/julien-ctx/hu-db/refs/heads/main/images/ageratumConyzoides.jpg",
     "scientific_name": "Ageratum conyzoides",
@@ -227,7 +227,7 @@
     }
   },
   {
-    "id": 6,
+    "id": 5,
     "key": "leonurusCardiaca",
     "image_link": "https://raw.githubusercontent.com/julien-ctx/hu-db/refs/heads/main/images/leonurusCardiaca.jpg",
     "scientific_name": "Leonurus cardiaca",
@@ -276,7 +276,7 @@
     }
   },
   {
-    "id": 7,
+    "id": 6,
     "key": "agrimoniaEupatoria",
     "image_link": "https://raw.githubusercontent.com/julien-ctx/hu-db/refs/heads/main/images/agrimoniaEupatoria.jpg",
     "scientific_name": "Agrimonia eupatoria",
@@ -322,7 +322,7 @@
     }
   },
   {
-    "id": 8,
+    "id": 7,
     "key": "alliumSativum",
     "image_link": "https://raw.githubusercontent.com/julien-ctx/hu-db/refs/heads/main/images/alliumSativum.jpg",
     "scientific_name": "Allium sativum",
@@ -374,7 +374,7 @@
     }
   },
   {
-    "id": 9,
+    "id": 8,
     "key": "trachyspermumAmmi",
     "image_link": "https://raw.githubusercontent.com/julien-ctx/hu-db/refs/heads/main/images/trachyspermumAmmi.jpg",
     "scientific_name": "Trachyspermum ammi",
@@ -411,7 +411,7 @@
     }
   },
   {
-    "id": 10,
+    "id": 9,
     "key": "alchemillaXanthochlora",
     "image_link": "https://raw.githubusercontent.com/julien-ctx/hu-db/refs/heads/main/images/alchemillaXanthochlora.jpg",
     "scientific_name": "Alchemilla xanthochlora",
@@ -452,7 +452,7 @@
     }
   },
   {
-    "id": 11,
+    "id": 10,
     "key": "sisymbriumAlliaria",
     "image_link": "https://raw.githubusercontent.com/julien-ctx/hu-db/refs/heads/main/images/sisymbriumAlliaria.jpg",
     "scientific_name": "Sisymbrium alliaria",
@@ -502,7 +502,7 @@
     }
   },
   {
-    "id": 13,
+    "id": 11,
     "key": "anemarrhenaAsphodeloides",
     "image_link": "https://raw.githubusercontent.com/julien-ctx/hu-db/refs/heads/main/images/anemarrhenaAsphodeloides.jpg",
     "scientific_name": "Anemarrhena asphodeloides",
@@ -544,7 +544,7 @@
     }
   },
   {
-    "id": 14,
+    "id": 12,
     "key": "anethumGraveolens",
     "image_link": "https://raw.githubusercontent.com/julien-ctx/hu-db/refs/heads/main/images/anethumGraveolens.jpg",
     "scientific_name": "Anethum graveolens",
@@ -586,7 +586,7 @@
     }
   },
   {
-    "id": 15,
+    "id": 13,
     "key": "angelicaSinensis",
     "image_link": "https://raw.githubusercontent.com/julien-ctx/hu-db/refs/heads/main/images/angelicaSinensis.jpg",
     "scientific_name": "Angelica sinensis",
@@ -624,7 +624,7 @@
     }
   },
   {
-    "id": 16,
+    "id": 14,
     "key": "pimpinellaAnisum",
     "image_link": "https://raw.githubusercontent.com/julien-ctx/hu-db/refs/heads/main/images/pimpinellaAnisum.jpg",
     "scientific_name": "Pimpinella anisum",
@@ -668,7 +668,7 @@
     }
   },
   {
-    "id": 17,
+    "id": 15,
     "key": "arbutusUnedo",
     "image_link": "https://raw.githubusercontent.com/julien-ctx/hu-db/refs/heads/main/images/arbutusUnedo.jpg",
     "scientific_name": "Arbutus unedo",
@@ -710,7 +710,7 @@
     }
   },
   {
-    "id": 18,
+    "id": 16,
     "key": "artemisiaVulgaris",
     "image_link": "https://raw.githubusercontent.com/julien-ctx/hu-db/refs/heads/main/images/artemisiaVulgaris.jpg",
     "scientific_name": "Artemisia vulgaris",
@@ -760,7 +760,7 @@
     }
   },
   {
-    "id": 19,
+    "id": 17,
     "key": "cynaraScolymus",
     "image_link": "https://raw.githubusercontent.com/julien-ctx/hu-db/refs/heads/main/images/cynaraScolymus.jpg",
     "scientific_name": "Cynara scolymus",
@@ -802,7 +802,7 @@
     }
   },
   {
-    "id": 20,
+    "id": 18,
     "key": "asparagusOfficinalis",
     "image_link": "https://raw.githubusercontent.com/julien-ctx/hu-db/refs/heads/main/images/asparagusOfficinalis.jpg",
     "scientific_name": "Asparagus officinalis",
@@ -844,7 +844,7 @@
     }
   },
   {
-    "id": 21,
+    "id": 19,
     "key": "galiumOdoratum",
     "image_link": "https://raw.githubusercontent.com/julien-ctx/hu-db/refs/heads/main/images/galiumOdoratum.jpg",
     "scientific_name": "Galium odoratum",
@@ -889,7 +889,7 @@
     }
   },
   {
-    "id": 22,
+    "id": 20,
     "key": "lavandulaAngustifolia",
     "image_link": "https://raw.githubusercontent.com/julien-ctx/hu-db/refs/heads/main/images/lavandulaAngustifolia.jpg",
     "scientific_name": "Lavandula latifolia",
@@ -932,7 +932,7 @@
     }
   },
   {
-    "id": 23,
+    "id": 21,
     "key": "astragalusMongholicus",
     "image_link": "https://raw.githubusercontent.com/julien-ctx/hu-db/refs/heads/main/images/astragalusMongholicus.jpg",
     "scientific_name": "Astragalus mongholicus",
@@ -977,7 +977,7 @@
     }
   },
   {
-    "id": 24,
+    "id": 22,
     "key": "crataegusLaevigata",
     "image_link": "https://raw.githubusercontent.com/julien-ctx/hu-db/refs/heads/main/images/crataegusLaevigata.jpg",
     "scientific_name": "Crataegus laevigata",
@@ -1017,7 +1017,7 @@
     }
   },
   {
-    "id": 25,
+    "id": 23,
     "key": "inulaHelenium",
     "image_link": "https://raw.githubusercontent.com/julien-ctx/hu-db/refs/heads/main/images/inulaHelenium.jpg",
     "scientific_name": "Inula helenium",
@@ -1064,7 +1064,7 @@
     }
   },
   {
-    "id": 26,
+    "id": 24,
     "key": "avenaSativa",
     "image_link": "https://raw.githubusercontent.com/julien-ctx/hu-db/refs/heads/main/images/avenaSativa.jpg",
     "scientific_name": "Avena sativa",
@@ -1113,7 +1113,7 @@
     }
   },
   {
-    "id": 27,
+    "id": 25,
     "key": "ayapanaTriplinervis",
     "image_link": "https://raw.githubusercontent.com/julien-ctx/hu-db/refs/heads/main/images/ayapanaTriplinervis.jpg",
     "scientific_name": "Ayapana triplinervis",
@@ -1158,7 +1158,7 @@
     }
   },
   {
-    "id": 28,
+    "id": 26,
     "key": "illiciumVerum",
     "image_link": "https://raw.githubusercontent.com/julien-ctx/hu-db/refs/heads/main/images/illiciumVerum.jpg",
     "scientific_name": "Illicium verum",
@@ -1198,7 +1198,7 @@
     }
   },
   {
-    "id": 29,
+    "id": 27,
     "key": "ballotaNigra",
     "image_link": "https://raw.githubusercontent.com/julien-ctx/hu-db/refs/heads/main/images/ballotaNigra.jpg",
     "scientific_name": "Ballota nigra",
@@ -1241,7 +1241,7 @@
     }
   },
   {
-    "id": 30,
+    "id": 28,
     "key": "balsamitaMajor",
     "image_link": "https://raw.githubusercontent.com/julien-ctx/hu-db/refs/heads/main/images/balsamitaMajor.jpg",
     "scientific_name": "Balsamita major",
@@ -1283,7 +1283,7 @@
     }
   },
   {
-    "id": 31,
+    "id": 29,
     "key": "arctiumLappa",
     "image_link": "https://raw.githubusercontent.com/julien-ctx/hu-db/refs/heads/main/images/arctiumLappa.jpg",
     "scientific_name": "Arctium lappa",
@@ -1328,7 +1328,7 @@
     }
   },
   {
-    "id": 32,
+    "id": 30,
     "key": "ocimumBasilicum",
     "image_link": "https://raw.githubusercontent.com/julien-ctx/hu-db/refs/heads/main/images/ocimumBasilicum.jpg",
     "scientific_name": "Ocimum basilicum",
@@ -1372,7 +1372,7 @@
     }
   },
   {
-    "id": 33,
+    "id": 31,
     "key": "geumUrbanum",
     "image_link": "https://raw.githubusercontent.com/julien-ctx/hu-db/refs/heads/main/images/geumUrbanum.jpg",
     "scientific_name": "Geum urbanum",
@@ -1411,7 +1411,7 @@
     }
   },
   {
-    "id": 34,
+    "id": 32,
     "key": "stachysOfficinalis",
     "image_link": "https://raw.githubusercontent.com/julien-ctx/hu-db/refs/heads/main/images/stachysOfficinalis.jpg",
     "scientific_name": "Stachys officinalis",
@@ -1451,7 +1451,7 @@
     }
   },
   {
-    "id": 35,
+    "id": 33,
     "key": "bidensPilosa",
     "image_link": "https://raw.githubusercontent.com/julien-ctx/hu-db/refs/heads/main/images/bidensPilosa.jpg",
     "scientific_name": "Bidens pilosa",
@@ -1495,7 +1495,7 @@
     }
   },
   {
-    "id": 36,
+    "id": 34,
     "key": "citrusAurantium",
     "image_link": "https://raw.githubusercontent.com/julien-ctx/hu-db/refs/heads/main/images/citrusAurantium.jpg",
     "scientific_name": "Citrus aurantium",
@@ -1543,7 +1543,7 @@
     }
   },
   {
-    "id": 37,
+    "id": 35,
     "key": "persicariaBistorta",
     "image_link": "https://raw.githubusercontent.com/julien-ctx/hu-db/refs/heads/main/images/persicariaBistorta.jpg",
     "scientific_name": "Persicaria bistorta",
@@ -1569,7 +1569,7 @@
     }
   },
   {
-    "id": 38,
+    "id": 36,
     "key": "centaureaCyanus",
     "image_link": "https://raw.githubusercontent.com/julien-ctx/hu-db/refs/heads/main/images/centaureaCyanus.jpg",
     "scientific_name": "Centaurea cyanus",
@@ -1613,7 +1613,7 @@
     }
   },
   {
-    "id": 39,
+    "id": 37,
     "key": "boerhaviaDiffusa",
     "image_link": "https://raw.githubusercontent.com/julien-ctx/hu-db/refs/heads/main/images/boerhaviaDiffusa.jpg",
     "scientific_name": "Boerhavia diffusa",
@@ -1655,7 +1655,7 @@
     }
   },
   {
-    "id": 40,
+    "id": 38,
     "key": "peumusBoldus",
     "image_link": "https://raw.githubusercontent.com/julien-ctx/hu-db/refs/heads/main/images/peumusBoldus.jpg",
     "scientific_name": "Peumus boldus",
@@ -1692,7 +1692,7 @@
     }
   },
   {
-    "id": 41,
+    "id": 39,
     "key": "verbascumThapsus",
     "image_link": "https://raw.githubusercontent.com/julien-ctx/hu-db/refs/heads/main/images/verbascumThapsus.jpg",
     "scientific_name": "Verbascum thapsus",
@@ -1723,7 +1723,7 @@
     }
   },
   {
-    "id": 42,
+    "id": 40,
     "key": "betulaPendula",
     "image_link": "https://raw.githubusercontent.com/julien-ctx/hu-db/refs/heads/main/images/betulaPendula.jpg",
     "scientific_name": "Betula pendula",
@@ -1771,7 +1771,7 @@
     }
   },
   {
-    "id": 43,
+    "id": 41,
     "key": "frangulaAlnus",
     "image_link": "https://raw.githubusercontent.com/julien-ctx/hu-db/refs/heads/main/images/frangulaAlnus.jpg",
     "scientific_name": "Frangula alnus",
@@ -1808,7 +1808,7 @@
     }
   },
   {
-    "id": 44,
+    "id": 42,
     "key": "boragoOfficinalis",
     "image_link": "https://raw.githubusercontent.com/julien-ctx/hu-db/refs/heads/main/images/boragoOfficinalis.jpg",
     "scientific_name": "Borago officinalis",
@@ -1856,7 +1856,7 @@
     }
   },
   {
-    "id": 45,
+    "id": 43,
     "key": "capsellaBursaPastoris",
     "image_link": "https://raw.githubusercontent.com/julien-ctx/hu-db/refs/heads/main/images/capsellaBursaPastoris.jpg",
     "scientific_name": "Capsella bursa-pastoris",
@@ -1898,7 +1898,7 @@
     }
   },
   {
-    "id": 46,
+    "id": 44,
     "key": "prunellaVulgaris",
     "image_link": "https://raw.githubusercontent.com/julien-ctx/hu-db/refs/heads/main/images/prunellaVulgaris.jpg",
     "scientific_name": "Prunella vulgaris",
@@ -1944,7 +1944,7 @@
     }
   },
   {
-    "id": 47,
+    "id": 45,
     "key": "ericaCinerea",
     "image_link": "https://raw.githubusercontent.com/julien-ctx/hu-db/refs/heads/main/images/ericaCinerea.jpg",
     "scientific_name": "Erica cinerea",
@@ -1990,7 +1990,7 @@
     }
   },
   {
-    "id": 48,
+    "id": 46,
     "key": "agathosmaBetulina",
     "image_link": "https://raw.githubusercontent.com/julien-ctx/hu-db/refs/heads/main/images/agathosmaBetulina.jpg",
     "scientific_name": "Agathosma betulina",
@@ -2027,7 +2027,7 @@
     }
   },
   {
-    "id": 49,
+    "id": 47,
     "key": "ononisSpinosa",
     "image_link": "https://raw.githubusercontent.com/julien-ctx/hu-db/refs/heads/main/images/ononisSpinosa.jpg",
     "scientific_name": "Ononis spinosa",
@@ -2067,7 +2067,7 @@
     }
   },
   {
-    "id": 50,
+    "id": 48,
     "key": "arctostaphylosUvaUrsi",
     "image_link": "https://raw.githubusercontent.com/julien-ctx/hu-db/refs/heads/main/images/arctostaphylosUvaUrsi.jpg",
     "scientific_name": "Arctostaphylos uva-ursi",
@@ -2093,7 +2093,7 @@
     }
   },
   {
-    "id": 51,
+    "id": 49,
     "key": "juniperusOxycedrus",
     "image_link": "https://raw.githubusercontent.com/julien-ctx/hu-db/refs/heads/main/images/juniperusOxycedrus.jpg",
     "scientific_name": "Juniperus oxycedrus",
@@ -2137,7 +2137,7 @@
     }
   },
   {
-    "id": 52,
+    "id": 50,
     "key": "callunaVulgaris",
     "image_link": "https://raw.githubusercontent.com/julien-ctx/hu-db/refs/heads/main/images/callunaVulgaris.jpg",
     "scientific_name": "Calluna vulgaris",
@@ -2184,7 +2184,7 @@
     }
   },
   {
-    "id": 53,
+    "id": 51,
     "key": "tanacetumParthenium",
     "image_link": "https://raw.githubusercontent.com/julien-ctx/hu-db/refs/heads/main/images/tanacetumParthenium.jpg",
     "scientific_name": "Tanacetum parthenium",
@@ -2227,7 +2227,7 @@
     }
   },
   {
-    "id": 54,
+    "id": 52,
     "key": "chamaemelumNobile",
     "image_link": "https://raw.githubusercontent.com/julien-ctx/hu-db/refs/heads/main/images/chamaemelumNobile.jpg",
     "scientific_name": "Chamaemelum nobile",
@@ -2275,7 +2275,7 @@
     }
   },
   {
-    "id": 55,
+    "id": 53,
     "key": "cinnamomumVerum",
     "image_link": "https://raw.githubusercontent.com/julien-ctx/hu-db/refs/heads/main/images/cinnamomumVerum.jpg",
     "scientific_name": "Cinnamomum verum",
@@ -2318,7 +2318,7 @@
     }
   },
   {
-    "id": 56,
+    "id": 54,
     "key": "tropaeolumMajus",
     "image_link": "https://raw.githubusercontent.com/julien-ctx/hu-db/refs/heads/main/images/tropaeolumMajus.jpg",
     "scientific_name": "Tropaeolum majus",
@@ -2364,7 +2364,7 @@
     }
   },
   {
-    "id": 57,
+    "id": 55,
     "key": "eletariaCardamomum",
     "image_link": "https://raw.githubusercontent.com/julien-ctx/hu-db/refs/heads/main/images/eletariaCardamomum.jpg",
     "scientific_name": "Elettaria cardamomum",
@@ -2407,7 +2407,7 @@
     }
   },
   {
-    "id": 58,
+    "id": 56,
     "key": "justiciaPectoralis",
     "image_link": "https://raw.githubusercontent.com/julien-ctx/hu-db/refs/heads/main/images/justiciaPectoralis.jpg",
     "scientific_name": "Justicia pectoralis",
@@ -2454,7 +2454,7 @@
     }
   },
   {
-    "id": 59,
+    "id": 57,
     "key": "ceratoniaSiliqua",
     "image_link": "https://raw.githubusercontent.com/julien-ctx/hu-db/refs/heads/main/images/ceratoniaSiliqua.jpg",
     "scientific_name": "Ceratonia siliqua",
@@ -2480,7 +2480,7 @@
     }
   },
   {
-    "id": 60,
+    "id": 58,
     "key": "chondrusCrispus",
     "image_link": "https://raw.githubusercontent.com/julien-ctx/hu-db/refs/heads/main/images/chondrusCrispus.jpg",
     "scientific_name": "Chondrus crispus",
@@ -2523,7 +2523,7 @@
     }
   },
   {
-    "id": 61,
+    "id": 59,
     "key": "carthamusTinctorius",
     "image_link": "https://raw.githubusercontent.com/julien-ctx/hu-db/refs/heads/main/images/carthamusTinctorius.jpg",
     "scientific_name": "Carthamus tinctorius",
@@ -2577,7 +2577,7 @@
     }
   },
   {
-    "id": 62,
+    "id": 60,
     "key": "carumCarvi",
     "image_link": "https://raw.githubusercontent.com/julien-ctx/hu-db/refs/heads/main/images/carumCarvi.jpg",
     "scientific_name": "Carum carvi",
@@ -2623,7 +2623,7 @@
     }
   },
   {
-    "id": 63,
+    "id": 61,
     "key": "frangulaPurshiana",
     "image_link": "https://raw.githubusercontent.com/julien-ctx/hu-db/refs/heads/main/images/frangulaPurshiana.jpg",
     "scientific_name": "Rhamnus purshiana",
@@ -2654,7 +2654,7 @@
     }
   },
   {
-    "id": 64,
+    "id": 62,
     "key": "ribesNigrum",
     "image_link": "https://raw.githubusercontent.com/julien-ctx/hu-db/refs/heads/main/images/ribesNigrum.jpg",
     "scientific_name": "Ribes nigrum",
@@ -2698,7 +2698,7 @@
     }
   },
   {
-    "id": 65,
+    "id": 63,
     "key": "cecropiaObtusa",
     "image_link": "https://raw.githubusercontent.com/julien-ctx/hu-db/refs/heads/main/images/cecropiaObtusa.jpg",
     "scientific_name": "Cecropia obtusa Trecul",
@@ -2741,7 +2741,7 @@
     }
   },
   {
-    "id": 66,
+    "id": 64,
     "key": "centauriumErythraea",
     "image_link": "https://raw.githubusercontent.com/julien-ctx/hu-db/refs/heads/main/images/centauriumErythraea.jpg",
     "scientific_name": "Centaurium erythraea",
@@ -2771,7 +2771,7 @@
     }
   },
   {
-    "id": 67,
+    "id": 65,
     "key": "silybumMarianum",
     "image_link": "https://raw.githubusercontent.com/julien-ctx/hu-db/refs/heads/main/images/silybumMarianum.jpg",
     "scientific_name": "Silybum marianum",
@@ -2814,7 +2814,7 @@
     }
   },
   {
-    "id": 68,
+    "id": 66,
     "key": "chelidoniumMajus",
     "image_link": "https://raw.githubusercontent.com/julien-ctx/hu-db/refs/heads/main/images/chelidoniumMajus.jpg",
     "scientific_name": "Chelidonium majus",
@@ -2853,7 +2853,7 @@
     }
   },
   {
-    "id": 69,
+    "id": 67,
     "key": "quercusRobur",
     "image_link": "https://raw.githubusercontent.com/julien-ctx/hu-db/refs/heads/main/images/quercusRobur.jpg",
     "scientific_name": "Quercus robur",
@@ -2893,7 +2893,7 @@
     }
   },
   {
-    "id": 70,
+    "id": 68,
     "key": "chenopodiumAmbrosioides",
     "image_link": "https://raw.githubusercontent.com/julien-ctx/hu-db/refs/heads/main/images/chenopodiumAmbrosioides.jpg",
     "scientific_name": "Chenopodium ambrosioides",
@@ -2935,7 +2935,7 @@
     }
   },
   {
-    "id": 71,
+    "id": 69,
     "key": "cichoriumIntybus",
     "image_link": "https://raw.githubusercontent.com/julien-ctx/hu-db/refs/heads/main/images/cichoriumIntybus.jpg",
     "scientific_name": "Cichorium intybus",
@@ -2973,7 +2973,7 @@
     }
   },
   {
-    "id": 72,
+    "id": 70,
     "key": "cynodonDactylon",
     "image_link": "https://raw.githubusercontent.com/julien-ctx/hu-db/refs/heads/main/images/cynodonDactylon.jpg",
     "scientific_name": "Cynodon dactylon",
@@ -3025,7 +3025,7 @@
     }
   },
   {
-    "id": 73,
+    "id": 71,
     "key": "elytrigiaRepens",
     "image_link": "https://raw.githubusercontent.com/julien-ctx/hu-db/refs/heads/main/images/elytrigiaRepens.jpg",
     "scientific_name": "Elymus repens",
@@ -3067,7 +3067,7 @@
     }
   },
   {
-    "id": 74,
+    "id": 72,
     "key": "chrysanthellumIndicum",
     "image_link": "https://raw.githubusercontent.com/julien-ctx/hu-db/refs/heads/main/images/chrysanthellumIndicum.jpg",
     "scientific_name": "Chrysanthellum indicum",
@@ -3115,7 +3115,7 @@
     }
   },
   {
-    "id": 75,
+    "id": 73,
     "key": "cissusVerticillata",
     "image_link": "https://raw.githubusercontent.com/julien-ctx/hu-db/refs/heads/main/images/cissusVerticillata.jpg",
     "scientific_name": "Cissus verticillata",
@@ -3161,7 +3161,7 @@
     }
   },
   {
-    "id": 76,
+    "id": 74,
     "key": "cochleariaOfficinalis",
     "image_link": "https://raw.githubusercontent.com/julien-ctx/hu-db/refs/heads/main/images/cochleariaOfficinalis.jpg",
     "scientific_name": "Cochlearia officinalis",
@@ -3208,7 +3208,7 @@
     }
   },
   {
-    "id": 77,
+    "id": 75,
     "key": "codonopsisPilosulaSspTangshen",
     "image_link": "https://raw.githubusercontent.com/julien-ctx/hu-db/refs/heads/main/images/codonopsisPilosulaSspTangshen.jpg",
     "scientific_name": "Codonopsis pilosula",
@@ -3246,7 +3246,7 @@
     }
   },
   {
-    "id": 78,
+    "id": 76,
     "key": "marsdeniaCondurango",
     "image_link": "https://raw.githubusercontent.com/julien-ctx/hu-db/refs/heads/main/images/marsdeniaCondurango.jpg",
     "scientific_name": "Marsdenia condurango",
@@ -3282,7 +3282,7 @@
     }
   },
   {
-    "id": 79,
+    "id": 77,
     "key": "papaverRhoeas",
     "image_link": "https://raw.githubusercontent.com/julien-ctx/hu-db/refs/heads/main/images/papaverRhoeas.jpg",
     "scientific_name": "Papaver rhoeas",
@@ -3312,7 +3312,7 @@
     }
   },
   {
-    "id": 80,
+    "id": 78,
     "key": "coriandrumSativum",
     "image_link": "https://raw.githubusercontent.com/julien-ctx/hu-db/refs/heads/main/images/coriandrumSativum.jpg",
     "scientific_name": "Coriandrum sativum",
@@ -3360,7 +3360,7 @@
     }
   },
   {
-    "id": 81,
+    "id": 79,
     "key": "cucurbitaPepo",
     "image_link": "https://raw.githubusercontent.com/julien-ctx/hu-db/refs/heads/main/images/cucurbitaPepo.jpg",
     "scientific_name": "Cucurbita pepo",
@@ -3407,7 +3407,7 @@
     }
   },
   {
-    "id": 82,
+    "id": 80,
     "key": "crithmumMaritimum",
     "image_link": "https://raw.githubusercontent.com/julien-ctx/hu-db/refs/heads/main/images/crithmumMaritimum.jpg",
     "scientific_name": "Crithmum maritimum",
@@ -3442,7 +3442,7 @@
     }
   },
   {
-    "id": 83,
+    "id": 81,
     "key": "curcumaDomestica",
     "image_link": "https://raw.githubusercontent.com/julien-ctx/hu-db/refs/heads/main/images/curcumaDomestica.jpg",
     "scientific_name": "Curcuma longa",
@@ -3485,7 +3485,7 @@
     }
   },
   {
-    "id": 84,
+    "id": 82,
     "key": "cyathulaOfficinalis",
     "image_link": "https://raw.githubusercontent.com/julien-ctx/hu-db/refs/heads/main/images/cyathulaOfficinalis.jpg",
     "scientific_name": "Cyathula officinalis",
@@ -3531,7 +3531,7 @@
     }
   },
   {
-    "id": 85,
+    "id": 83,
     "key": "cupressusSempervirens",
     "image_link": "https://raw.githubusercontent.com/julien-ctx/hu-db/refs/heads/main/images/cupressusSempervirens.jpg",
     "scientific_name": "Cupressus sempervirens",
@@ -3574,7 +3574,7 @@
     }
   },
   {
-    "id": 86,
+    "id": 84,
     "key": "dioscoreaNipponica",
     "image_link": "https://raw.githubusercontent.com/julien-ctx/hu-db/refs/heads/main/images/dioscoreaNipponica.jpg",
     "scientific_name": "Dioscorea nipponica",
@@ -3619,7 +3619,7 @@
     }
   },
   {
-    "id": 87,
+    "id": 85,
     "key": "droseraRotundifolia",
     "image_link": "https://raw.githubusercontent.com/julien-ctx/hu-db/refs/heads/main/images/droseraRotundifolia.jpg",
     "scientific_name": "Drosera rotundifolia",
@@ -3656,7 +3656,7 @@
     }
   },
   {
-    "id": 88,
+    "id": 86,
     "key": "drynariaFortunei",
     "image_link": "https://raw.githubusercontent.com/julien-ctx/hu-db/refs/heads/main/images/drynariaFortunei.jpg",
     "scientific_name": "Drynaria fortunei",
@@ -3708,7 +3708,7 @@
     }
   },
   {
-    "id": 89,
+    "id": 87,
     "key": "echinaceaAngustifolia",
     "image_link": "https://raw.githubusercontent.com/julien-ctx/hu-db/refs/heads/main/images/echinaceaAngustifolia.jpg",
     "scientific_name": "Echinacea angustifolia",
@@ -3751,7 +3751,7 @@
     }
   },
   {
-    "id": 90,
+    "id": 88,
     "key": "eleutherococcusSenticosus",
     "image_link": "https://raw.githubusercontent.com/julien-ctx/hu-db/refs/heads/main/images/eleutherococcusSenticosus.jpg",
     "scientific_name": "Eleutherococcus senticosus",
@@ -3792,7 +3792,7 @@
     }
   },
   {
-    "id": 91,
+    "id": 89,
     "key": "berberisVulgaris",
     "image_link": "https://raw.githubusercontent.com/julien-ctx/hu-db/refs/heads/main/images/berberisVulgaris.jpg",
     "scientific_name": "Berberis vulgaris",
@@ -3843,7 +3843,7 @@
     }
   },
   {
-    "id": 92,
+    "id": 90,
     "key": "sisymbriumOfficinale",
     "image_link": "https://raw.githubusercontent.com/julien-ctx/hu-db/refs/heads/main/images/sisymbriumOfficinale.jpg",
     "scientific_name": "Sisymbrium officinale",
@@ -3891,7 +3891,7 @@
     }
   },
   {
-    "id": 93,
+    "id": 91,
     "key": "eschscholtziaCalifornica",
     "image_link": "https://raw.githubusercontent.com/julien-ctx/hu-db/refs/heads/main/images/eschscholtziaCalifornica.jpg",
     "scientific_name": "Eschscholzia californica",
@@ -3917,7 +3917,7 @@
     }
   },
   {
-    "id": 94,
+    "id": 92,
     "key": "eucalyptusGlobulus",
     "image_link": "https://raw.githubusercontent.com/julien-ctx/hu-db/refs/heads/main/images/eucalyptusGlobulus.jpg",
     "scientific_name": "Eucalyptus globulus",
@@ -3958,7 +3958,7 @@
     }
   },
   {
-    "id": 95,
+    "id": 93,
     "key": "foeniculumVulgare",
     "image_link": "https://raw.githubusercontent.com/julien-ctx/hu-db/refs/heads/main/images/foeniculumVulgare.jpg",
     "scientific_name": "Foeniculum vulgare",
@@ -4004,7 +4004,7 @@
     }
   },
   {
-    "id": 96,
+    "id": 94,
     "key": "trigonellaFoenumGraecum",
     "image_link": "https://raw.githubusercontent.com/julien-ctx/hu-db/refs/heads/main/images/trigonellaFoenumGraecum.jpg",
     "scientific_name": "Trigonella foenum-graecum",
@@ -4053,7 +4053,7 @@
     }
   },
   {
-    "id": 97,
+    "id": 95,
     "key": "ficusCarica",
     "image_link": "https://raw.githubusercontent.com/julien-ctx/hu-db/refs/heads/main/images/ficusCarica.jpg",
     "scientific_name": "Ficus carica",
@@ -4089,7 +4089,7 @@
     }
   },
   {
-    "id": 98,
+    "id": 96,
     "key": "forsythiaSuspensa",
     "image_link": "https://raw.githubusercontent.com/julien-ctx/hu-db/refs/heads/main/images/forsythiaSuspensa.jpg",
     "scientific_name": "Forsythia suspensa",
@@ -4131,7 +4131,7 @@
     }
   },
   {
-    "id": 99,
+    "id": 97,
     "key": "fragariaVesca",
     "image_link": "https://raw.githubusercontent.com/julien-ctx/hu-db/refs/heads/main/images/fragariaVesca.jpg",
     "scientific_name": "Fragaria vesca",
@@ -4184,7 +4184,7 @@
     }
   },
   {
-    "id": 100,
+    "id": 98,
     "key": "rubusIdaeus",
     "image_link": "https://raw.githubusercontent.com/julien-ctx/hu-db/refs/heads/main/images/rubusIdaeus.jpg",
     "scientific_name": "Rubus idaeus",
@@ -4223,7 +4223,7 @@
     }
   },
   {
-    "id": 101,
+    "id": 99,
     "key": "fraxinusOrnus",
     "image_link": "https://raw.githubusercontent.com/julien-ctx/hu-db/refs/heads/main/images/fraxinusOrnus.jpg",
     "scientific_name": "Fraxinus ornus L.",
@@ -4269,7 +4269,7 @@
     }
   },
   {
-    "id": 102,
+    "id": 100,
     "key": "fucusSerratus",
     "image_link": "https://raw.githubusercontent.com/julien-ctx/hu-db/refs/heads/main/images/fucusSerratus.jpg",
     "scientific_name": "Fucus serratus",
@@ -4300,7 +4300,7 @@
     }
   },
   {
-    "id": 103,
+    "id": 101,
     "key": "fumariaOfficinalis",
     "image_link": "https://raw.githubusercontent.com/julien-ctx/hu-db/refs/heads/main/images/fumariaOfficinalis.jpg",
     "scientific_name": "Fumaria officinalis",
@@ -4343,7 +4343,7 @@
     }
   },
   {
-    "id": 104,
+    "id": 102,
     "key": "alpiniaOfficinarum",
     "image_link": "https://raw.githubusercontent.com/julien-ctx/hu-db/refs/heads/main/images/alpiniaOfficinarum.jpg",
     "scientific_name": "Alpinia officinarum",
@@ -4378,7 +4378,7 @@
     }
   },
   {
-    "id": 105,
+    "id": 103,
     "key": "galegaOfficinalis",
     "image_link": "https://raw.githubusercontent.com/julien-ctx/hu-db/refs/heads/main/images/galegaOfficinalis.jpg",
     "scientific_name": "Galega officinalis",
@@ -4414,7 +4414,7 @@
     }
   },
   {
-    "id": 106,
+    "id": 104,
     "key": "gastrodiaElata",
     "image_link": "https://raw.githubusercontent.com/julien-ctx/hu-db/refs/heads/main/images/gastrodiaElata.jpg",
     "scientific_name": "Gastrodia elata",
@@ -4459,7 +4459,7 @@
     }
   },
   {
-    "id": 107,
+    "id": 105,
     "key": "gardeniaJasminoides",
     "image_link": "https://raw.githubusercontent.com/julien-ctx/hu-db/refs/heads/main/images/gardeniaJasminoides.jpg",
     "scientific_name": "Gardenia jasminoides",
@@ -4505,7 +4505,7 @@
     }
   },
   {
-    "id": 108,
+    "id": 106,
     "key": "vitexAgnusCastus",
     "image_link": "https://raw.githubusercontent.com/julien-ctx/hu-db/refs/heads/main/images/vitexAgnusCastus.jpg",
     "scientific_name": "Vitex agnus-castus",
@@ -4546,7 +4546,7 @@
     }
   },
   {
-    "id": 109,
+    "id": 107,
     "key": "juniperusCommunis",
     "image_link": "https://raw.githubusercontent.com/julien-ctx/hu-db/refs/heads/main/images/juniperusCommunis.jpg",
     "scientific_name": "Juniperus communis",
@@ -4591,7 +4591,7 @@
     }
   },
   {
-    "id": 110,
+    "id": 108,
     "key": "gentianaLutea",
     "image_link": "https://raw.githubusercontent.com/julien-ctx/hu-db/refs/heads/main/images/gentianaLutea.jpg",
     "scientific_name": "Gentiana lutea",
@@ -4621,7 +4621,7 @@
     }
   },
   {
-    "id": 111,
+    "id": 109,
     "key": "zingiberOfficinale",
     "image_link": "https://raw.githubusercontent.com/julien-ctx/hu-db/refs/heads/main/images/zingiberOfficinale.jpg",
     "scientific_name": "Zingiber officinale",
@@ -4663,7 +4663,7 @@
     }
   },
   {
-    "id": 112,
+    "id": 110,
     "key": "ginkgoBiloba",
     "image_link": "https://raw.githubusercontent.com/julien-ctx/hu-db/refs/heads/main/images/ginkgoBiloba.jpg",
     "scientific_name": "Ginkgo biloba",
@@ -4704,7 +4704,7 @@
     }
   },
   {
-    "id": 113,
+    "id": 111,
     "key": "panaxGinseng",
     "image_link": "https://raw.githubusercontent.com/julien-ctx/hu-db/refs/heads/main/images/panaxGinseng.jpg",
     "scientific_name": "Panax ginseng",
@@ -4747,7 +4747,7 @@
     }
   },
   {
-    "id": 114,
+    "id": 112,
     "key": "syzygiumAromaticum",
     "image_link": "https://raw.githubusercontent.com/julien-ctx/hu-db/refs/heads/main/images/syzygiumAromaticum.jpg",
     "scientific_name": "Syzygium aromaticum",
@@ -4793,7 +4793,7 @@
     }
   },
   {
-    "id": 115,
+    "id": 113,
     "key": "globulariaAlypum",
     "image_link": "https://raw.githubusercontent.com/julien-ctx/hu-db/refs/heads/main/images/globulariaAlypum.jpg",
     "scientific_name": "Globularia alypum",
@@ -4843,7 +4843,7 @@
     }
   },
   {
-    "id": 116,
+    "id": 114,
     "key": "punicaGranatum",
     "image_link": "https://raw.githubusercontent.com/julien-ctx/hu-db/refs/heads/main/images/punicaGranatum.jpg",
     "scientific_name": "Punica granatum",
@@ -4895,7 +4895,7 @@
     }
   },
   {
-    "id": 117,
+    "id": 115,
     "key": "grindeliaRobusta",
     "image_link": "https://raw.githubusercontent.com/julien-ctx/hu-db/refs/heads/main/images/grindeliaRobusta.jpg",
     "scientific_name": "Grindelia robusta",
@@ -4933,7 +4933,7 @@
     }
   },
   {
-    "id": 118,
+    "id": 116,
     "key": "althaeaOfficinalis",
     "image_link": "https://raw.githubusercontent.com/julien-ctx/hu-db/refs/heads/main/images/althaeaOfficinalis.jpg",
     "scientific_name": "Althaea officinalis",
@@ -4975,7 +4975,7 @@
     }
   },
   {
-    "id": 119,
+    "id": 117,
     "key": "hamamelisVirginiana",
     "image_link": "https://raw.githubusercontent.com/julien-ctx/hu-db/refs/heads/main/images/hamamelisVirginiana.jpg",
     "scientific_name": "Hamamelis virginiana",
@@ -5017,7 +5017,7 @@
     }
   },
   {
-    "id": 120,
+    "id": 118,
     "key": "harpagophytumProcumbens",
     "image_link": "https://raw.githubusercontent.com/julien-ctx/hu-db/refs/heads/main/images/harpagophytumProcumbens.jpg",
     "scientific_name": "Harpagophytum procumbens",
@@ -5054,7 +5054,7 @@
     }
   },
   {
-    "id": 121,
+    "id": 119,
     "key": "humulusLupulus",
     "image_link": "https://raw.githubusercontent.com/julien-ctx/hu-db/refs/heads/main/images/humulusLupulus.jpg",
     "scientific_name": "Humulus lupulus",
@@ -5091,7 +5091,7 @@
     }
   },
   {
-    "id": 122,
+    "id": 120,
     "key": "ruscusAculeatus",
     "image_link": "https://raw.githubusercontent.com/julien-ctx/hu-db/refs/heads/main/images/ruscusAculeatus.jpg",
     "scientific_name": "Ruscus aculeatus",
@@ -5131,7 +5131,7 @@
     }
   },
   {
-    "id": 123,
+    "id": 121,
     "key": "hydrastisCanadensis",
     "image_link": "https://raw.githubusercontent.com/julien-ctx/hu-db/refs/heads/main/images/hydrastisCanadensis.jpg",
     "scientific_name": "Hydrastis canadensis",
@@ -5176,7 +5176,7 @@
     }
   },
   {
-    "id": 124,
+    "id": 122,
     "key": "centellaAsiatica",
     "image_link": "https://raw.githubusercontent.com/julien-ctx/hu-db/refs/heads/main/images/centellaAsiatica.jpg",
     "scientific_name": "Centella asiatica",
@@ -5220,7 +5220,7 @@
     }
   },
   {
-    "id": 125,
+    "id": 123,
     "key": "hyptisAtrorubens",
     "image_link": "https://raw.githubusercontent.com/julien-ctx/hu-db/refs/heads/main/images/hyptisAtrorubens.jpg",
     "scientific_name": "Hyptis atrorubens",
@@ -5259,7 +5259,7 @@
     }
   },
   {
-    "id": 126,
+    "id": 124,
     "key": "hyptisSuaveolens",
     "image_link": "https://raw.githubusercontent.com/julien-ctx/hu-db/refs/heads/main/images/hyptisSuaveolens.jpg",
     "scientific_name": "Hyptis suaveolens",
@@ -5306,7 +5306,7 @@
     }
   },
   {
-    "id": 127,
+    "id": 125,
     "key": "hyssopusOfficinalis",
     "image_link": "https://raw.githubusercontent.com/julien-ctx/hu-db/refs/heads/main/images/hyssopusOfficinalis.jpg",
     "scientific_name": "Hyssopus officinalis",
@@ -5356,7 +5356,7 @@
     }
   },
   {
-    "id": 128,
+    "id": 126,
     "key": "ziziphusJujuba",
     "image_link": "https://raw.githubusercontent.com/julien-ctx/hu-db/refs/heads/main/images/ziziphusJujuba.jpg",
     "scientific_name": "Ziziphus jujuba",
@@ -5397,7 +5397,7 @@
     }
   },
   {
-    "id": 129,
+    "id": 127,
     "key": "hibiscusSabdariffa",
     "image_link": "https://raw.githubusercontent.com/julien-ctx/hu-db/refs/heads/main/images/hibiscusSabdariffa.jpg",
     "scientific_name": "Hibiscus sabdariffa",
@@ -5442,7 +5442,7 @@
     }
   },
   {
-    "id": 130,
+    "id": 128,
     "key": "ammiVisnaga",
     "image_link": "https://raw.githubusercontent.com/julien-ctx/hu-db/refs/heads/main/images/ammiVisnaga.jpg",
     "scientific_name": "Ammi visnaga",
@@ -5484,7 +5484,7 @@
     }
   },
   {
-    "id": 131,
+    "id": 129,
     "key": "combretumMicranthum",
     "image_link": "https://raw.githubusercontent.com/julien-ctx/hu-db/refs/heads/main/images/combretumMicranthum.jpg",
     "scientific_name": "Combretum micranthum",
@@ -5525,7 +5525,7 @@
     }
   },
   {
-    "id": 132,
+    "id": 130,
     "key": "lactucaVirosa",
     "image_link": "https://raw.githubusercontent.com/julien-ctx/hu-db/refs/heads/main/images/lactucaVirosa.jpg",
     "scientific_name": "Lactuca virosa",
@@ -5560,7 +5560,7 @@
     }
   },
   {
-    "id": 133,
+    "id": 131,
     "key": "lamiumAlbum",
     "image_link": "https://raw.githubusercontent.com/julien-ctx/hu-db/refs/heads/main/images/lamiumAlbum.jpg",
     "scientific_name": "Lamium album",
@@ -5608,7 +5608,7 @@
     }
   },
   {
-    "id": 134,
+    "id": 132,
     "key": "coixLacrymaJob",
     "image_link": "https://raw.githubusercontent.com/julien-ctx/hu-db/refs/heads/main/images/coixLacrymaJob.jpg",
     "scientific_name": "Coix lacryma-jobi",
@@ -5651,7 +5651,7 @@
     }
   },
   {
-    "id": 135,
+    "id": 133,
     "key": "laurusNobilis",
     "image_link": "https://raw.githubusercontent.com/julien-ctx/hu-db/refs/heads/main/images/laurusNobilis.jpg",
     "scientific_name": "Laurus nobilis",
@@ -5688,7 +5688,7 @@
     }
   },
   {
-    "id": 136,
+    "id": 134,
     "key": "cymbopogonCitratus",
     "image_link": "https://raw.githubusercontent.com/julien-ctx/hu-db/refs/heads/main/images/cymbopogonCitratus.jpg",
     "scientific_name": "Cymbopogon citratus",
@@ -5738,7 +5738,7 @@
     }
   },
   {
-    "id": 137,
+    "id": 135,
     "key": "leonurusJaponicus",
     "image_link": "https://raw.githubusercontent.com/julien-ctx/hu-db/refs/heads/main/images/leonurusJaponicus.jpg",
     "scientific_name": "Leonurus japonicus",
@@ -5775,7 +5775,7 @@
     }
   },
   {
-    "id": 138,
+    "id": 136,
     "key": "cetrariaIslandica",
     "image_link": "https://raw.githubusercontent.com/julien-ctx/hu-db/refs/heads/main/images/cetrariaIslandica.jpg",
     "scientific_name": "Cetraria islandica",
@@ -5817,7 +5817,7 @@
     }
   },
   {
-    "id": 139,
+    "id": 137,
     "key": "hederaHelix",
     "image_link": "https://raw.githubusercontent.com/julien-ctx/hu-db/refs/heads/main/images/hederaHelix.jpg",
     "scientific_name": "Hedera helix",
@@ -5857,7 +5857,7 @@
     }
   },
   {
-    "id": 140,
+    "id": 138,
     "key": "glechomaHederacea",
     "image_link": "https://raw.githubusercontent.com/julien-ctx/hu-db/refs/heads/main/images/glechomaHederacea.jpg",
     "scientific_name": "Glechoma hederacea",
@@ -5907,7 +5907,7 @@
     }
   },
   {
-    "id": 141,
+    "id": 139,
     "key": "linumUsitatissimum",
     "image_link": "https://raw.githubusercontent.com/julien-ctx/hu-db/refs/heads/main/images/linumUsitatissimum.jpg",
     "scientific_name": "Linum usitatissimum",
@@ -5954,7 +5954,7 @@
     }
   },
   {
-    "id": 142,
+    "id": 140,
     "key": "ligusticumSinense",
     "image_link": "https://raw.githubusercontent.com/julien-ctx/hu-db/refs/heads/main/images/ligusticumSinense.jpg",
     "scientific_name": "Ligusticum sinense",
@@ -5991,7 +5991,7 @@
     }
   },
   {
-    "id": 143,
+    "id": 141,
     "key": "levisticumOfficinale",
     "image_link": "https://raw.githubusercontent.com/julien-ctx/hu-db/refs/heads/main/images/levisticumOfficinale.jpg",
     "scientific_name": "Levisticum officinale",
@@ -6032,7 +6032,7 @@
     }
   },
   {
-    "id": 144,
+    "id": 142,
     "key": "lyciumBarbarum",
     "image_link": "https://raw.githubusercontent.com/julien-ctx/hu-db/refs/heads/main/images/lyciumBarbarum.jpg",
     "scientific_name": "Lycium barbarum",
@@ -6075,7 +6075,7 @@
     }
   },
   {
-    "id": 145,
+    "id": 143,
     "key": "magnoliaOfficinalis",
     "image_link": "https://raw.githubusercontent.com/julien-ctx/hu-db/refs/heads/main/images/magnoliaOfficinalis.jpg",
     "scientific_name": "Magnolia officinalis",
@@ -6107,7 +6107,7 @@
     }
   },
   {
-    "id": 146,
+    "id": 144,
     "key": "zeaMays",
     "image_link": "https://raw.githubusercontent.com/julien-ctx/hu-db/refs/heads/main/images/zeaMays.jpg",
     "scientific_name": "Zea mays",
@@ -6143,7 +6143,7 @@
     }
   },
   {
-    "id": 147,
+    "id": 145,
     "key": "origanumMajorana",
     "image_link": "https://raw.githubusercontent.com/julien-ctx/hu-db/refs/heads/main/images/origanumMajorana.jpg",
     "scientific_name": "Origanum majorana",
@@ -6184,7 +6184,7 @@
     }
   },
   {
-    "id": 148,
+    "id": 146,
     "key": "aesculusHippocastanum",
     "image_link": "https://raw.githubusercontent.com/julien-ctx/hu-db/refs/heads/main/images/aesculusHippocastanum.jpg",
     "scientific_name": "Aesculus hippocastanum",
@@ -6232,7 +6232,7 @@
     }
   },
   {
-    "id": 149,
+    "id": 147,
     "key": "marrubiumVulgare",
     "image_link": "https://raw.githubusercontent.com/julien-ctx/hu-db/refs/heads/main/images/marrubiumVulgare.jpg",
     "scientific_name": "Marrubium vulgare",
@@ -6271,7 +6271,7 @@
     }
   },
   {
-    "id": 150,
+    "id": 148,
     "key": "ilexParaguariensis",
     "image_link": "https://raw.githubusercontent.com/julien-ctx/hu-db/refs/heads/main/images/ilexParaguariensis.jpg",
     "scientific_name": "Ilex paraguariensis",
@@ -6312,7 +6312,7 @@
     }
   },
   {
-    "id": 151,
+    "id": 149,
     "key": "matricariaRecutita",
     "image_link": "https://raw.githubusercontent.com/julien-ctx/hu-db/refs/heads/main/images/matricariaRecutita.jpg",
     "scientific_name": "Matricaria chamomilla",
@@ -6367,7 +6367,7 @@
     }
   },
   {
-    "id": 152,
+    "id": 150,
     "key": "malvaSylvestris",
     "image_link": "https://raw.githubusercontent.com/julien-ctx/hu-db/refs/heads/main/images/malvaSylvestris.jpg",
     "scientific_name": "Malva sylvestris",
@@ -6413,7 +6413,7 @@
     }
   },
   {
-    "id": 153,
+    "id": 151,
     "key": "melilotusOfficinalis",
     "image_link": "https://raw.githubusercontent.com/julien-ctx/hu-db/refs/heads/main/images/melilotusOfficinalis.jpg",
     "scientific_name": "Melilotus officinalis",
@@ -6449,7 +6449,7 @@
     }
   },
   {
-    "id": 154,
+    "id": 152,
     "key": "melissaOfficinalis",
     "image_link": "https://raw.githubusercontent.com/julien-ctx/hu-db/refs/heads/main/images/melissaOfficinalis.jpg",
     "scientific_name": "Melissa officinalis",
@@ -6493,10 +6493,10 @@
     }
   },
   {
-    "id": 155,
+    "id": 153,
     "key": "menthaXPiperita",
     "image_link": "https://raw.githubusercontent.com/julien-ctx/hu-db/refs/heads/main/images/menthaXPiperita.jpg",
-    "scientific_name": "Mentha \u00d7 piperita",
+    "scientific_name": "Mentha × piperita",
     "description": {
       "geographical_areas": [
         "westernEurope",
@@ -6543,7 +6543,7 @@
     }
   },
   {
-    "id": 156,
+    "id": 154,
     "key": "menthaSpicata",
     "image_link": "https://raw.githubusercontent.com/julien-ctx/hu-db/refs/heads/main/images/menthaSpicata.jpg",
     "scientific_name": "Mentha spicata",
@@ -6587,7 +6587,7 @@
     }
   },
   {
-    "id": 157,
+    "id": 155,
     "key": "menyanthesTrifoliata",
     "image_link": "https://raw.githubusercontent.com/julien-ctx/hu-db/refs/heads/main/images/menyanthesTrifoliata.jpg",
     "scientific_name": "Menyanthes trifoliata",
@@ -6631,7 +6631,7 @@
     }
   },
   {
-    "id": 158,
+    "id": 156,
     "key": "achilleaMillefolium",
     "image_link": "https://raw.githubusercontent.com/julien-ctx/hu-db/refs/heads/main/images/achilleaMillefolium.jpg",
     "scientific_name": "Achillea millefolium",
@@ -6679,7 +6679,7 @@
     }
   },
   {
-    "id": 159,
+    "id": 157,
     "key": "hypericumPerforatum",
     "image_link": "https://raw.githubusercontent.com/julien-ctx/hu-db/refs/heads/main/images/hypericumPerforatum.jpg",
     "scientific_name": "Hypericum perforatum",
@@ -6726,7 +6726,7 @@
     }
   },
   {
-    "id": 160,
+    "id": 158,
     "key": "momordicaCharantia",
     "image_link": "https://raw.githubusercontent.com/julien-ctx/hu-db/refs/heads/main/images/momordicaCharantia.jpg",
     "scientific_name": "Momordica charantia",
@@ -6772,7 +6772,7 @@
     }
   },
   {
-    "id": 161,
+    "id": 159,
     "key": "solanumNigrum",
     "image_link": "https://raw.githubusercontent.com/julien-ctx/hu-db/refs/heads/main/images/solanumNigrum.jpg",
     "scientific_name": "Solanum nigrum.",
@@ -6817,7 +6817,7 @@
     }
   },
   {
-    "id": 162,
+    "id": 160,
     "key": "ophiopogonJaponicus",
     "image_link": "https://raw.githubusercontent.com/julien-ctx/hu-db/refs/heads/main/images/ophiopogonJaponicus.jpg",
     "scientific_name": "Ophiopogon japonicus",
@@ -6859,7 +6859,7 @@
     }
   },
   {
-    "id": 163,
+    "id": 161,
     "key": "myrtusCommunis",
     "image_link": "https://raw.githubusercontent.com/julien-ctx/hu-db/refs/heads/main/images/myrtusCommunis.jpg",
     "scientific_name": "Myrtus communis",
@@ -6906,7 +6906,7 @@
     }
   },
   {
-    "id": 164,
+    "id": 162,
     "key": "vacciniumMyrtillus",
     "image_link": "https://raw.githubusercontent.com/julien-ctx/hu-db/refs/heads/main/images/vacciniumMyrtillus.jpg",
     "scientific_name": "Vaccinium myrtillus",
@@ -6950,7 +6950,7 @@
     }
   },
   {
-    "id": 165,
+    "id": 163,
     "key": "rhamnusCatharticus",
     "image_link": "https://raw.githubusercontent.com/julien-ctx/hu-db/refs/heads/main/images/rhamnusCatharticus.jpg",
     "scientific_name": "Rhamnus catharticus",
@@ -6981,7 +6981,7 @@
     }
   },
   {
-    "id": 166,
+    "id": 164,
     "key": "panaxPseudoginseng",
     "image_link": "https://raw.githubusercontent.com/julien-ctx/hu-db/refs/heads/main/images/panaxPseudoginseng.jpg",
     "scientific_name": "Panax pseudoginseng",
@@ -7018,7 +7018,7 @@
     }
   },
   {
-    "id": 167,
+    "id": 165,
     "key": "notopterygiumFranchetii",
     "image_link": "https://raw.githubusercontent.com/julien-ctx/hu-db/refs/heads/main/images/notopterygiumFranchetii.jpg",
     "scientific_name": "Notopterygium franchetii",
@@ -7056,7 +7056,7 @@
     }
   },
   {
-    "id": 168,
+    "id": 166,
     "key": "juglansRegia",
     "image_link": "https://raw.githubusercontent.com/julien-ctx/hu-db/refs/heads/main/images/juglansRegia.jpg",
     "scientific_name": "Juglans regia",
@@ -7093,7 +7093,7 @@
     }
   },
   {
-    "id": 169,
+    "id": 167,
     "key": "oleaEuropaea",
     "image_link": "https://raw.githubusercontent.com/julien-ctx/hu-db/refs/heads/main/images/oleaEuropaea.jpg",
     "scientific_name": "Olea europaea",
@@ -7130,7 +7130,7 @@
     }
   },
   {
-    "id": 170,
+    "id": 168,
     "key": "origanumVulgare",
     "image_link": "https://raw.githubusercontent.com/julien-ctx/hu-db/refs/heads/main/images/origanumVulgare.jpg",
     "scientific_name": "Origanum vulgare",
@@ -7174,7 +7174,7 @@
     }
   },
   {
-    "id": 171,
+    "id": 169,
     "key": "orthosiphonStamineus",
     "image_link": "https://raw.githubusercontent.com/julien-ctx/hu-db/refs/heads/main/images/orthosiphonStamineus.jpg",
     "scientific_name": "Orthosiphon stamineus",
@@ -7215,7 +7215,7 @@
     }
   },
   {
-    "id": 172,
+    "id": 170,
     "key": "urticaDioca",
     "image_link": "https://raw.githubusercontent.com/julien-ctx/hu-db/refs/heads/main/images/urticaDioca.jpg",
     "scientific_name": "Urtica dioica",
@@ -7267,7 +7267,7 @@
     }
   },
   {
-    "id": 173,
+    "id": 171,
     "key": "parietariaOfficinalis",
     "image_link": "https://raw.githubusercontent.com/julien-ctx/hu-db/refs/heads/main/images/parietariaOfficinalis.jpg",
     "scientific_name": "Parietaria officinalis",
@@ -7312,7 +7312,7 @@
     }
   },
   {
-    "id": 174,
+    "id": 172,
     "key": "passifloraIncarnata",
     "image_link": "https://raw.githubusercontent.com/julien-ctx/hu-db/refs/heads/main/images/passifloraIncarnata.jpg",
     "scientific_name": "Passiflora incarnata",
@@ -7350,7 +7350,7 @@
     }
   },
   {
-    "id": 175,
+    "id": 173,
     "key": "paulliniaCupana",
     "image_link": "https://raw.githubusercontent.com/julien-ctx/hu-db/refs/heads/main/images/paulliniaCupana.jpg",
     "scientific_name": "Paullinia cupana",
@@ -7386,7 +7386,7 @@
     }
   },
   {
-    "id": 176,
+    "id": 174,
     "key": "pelargoniumSidoides",
     "image_link": "https://raw.githubusercontent.com/julien-ctx/hu-db/refs/heads/main/images/pelargoniumSidoides.jpg",
     "scientific_name": "Pelargonium sidoides",
@@ -7422,7 +7422,7 @@
     }
   },
   {
-    "id": 177,
+    "id": 175,
     "key": "violaArvensis",
     "image_link": "https://raw.githubusercontent.com/julien-ctx/hu-db/refs/heads/main/images/violaArvensis.jpg",
     "scientific_name": "Viola arvensis",
@@ -7471,7 +7471,7 @@
     }
   },
   {
-    "id": 178,
+    "id": 176,
     "key": "peperomiaPellucida",
     "image_link": "https://raw.githubusercontent.com/julien-ctx/hu-db/refs/heads/main/images/peperomiaPellucida.jpg",
     "scientific_name": "Peperomia pellucida",
@@ -7516,7 +7516,7 @@
     }
   },
   {
-    "id": 179,
+    "id": 177,
     "key": "petroselinumCrispum",
     "image_link": "https://raw.githubusercontent.com/julien-ctx/hu-db/refs/heads/main/images/petroselinumCrispum.jpg",
     "scientific_name": "Petroselinum crispum",
@@ -7564,7 +7564,7 @@
     }
   },
   {
-    "id": 180,
+    "id": 178,
     "key": "petiveriaAlliacea",
     "image_link": "https://raw.githubusercontent.com/julien-ctx/hu-db/refs/heads/main/images/petiveriaAlliacea.jpg",
     "scientific_name": "Petiveria alliacea",
@@ -7607,7 +7607,7 @@
     }
   },
   {
-    "id": 181,
+    "id": 179,
     "key": "phyllanthusAmarus",
     "image_link": "https://raw.githubusercontent.com/julien-ctx/hu-db/refs/heads/main/images/phyllanthusAmarus.jpg",
     "scientific_name": "Phyllanthus amarus",
@@ -7644,7 +7644,7 @@
     }
   },
   {
-    "id": 182,
+    "id": 180,
     "key": "antennariaDioica",
     "image_link": "https://raw.githubusercontent.com/julien-ctx/hu-db/refs/heads/main/images/antennariaDioica.jpg",
     "scientific_name": "Antennaria dioica",
@@ -7685,7 +7685,7 @@
     }
   },
   {
-    "id": 183,
+    "id": 181,
     "key": "hieraciumPilosella",
     "image_link": "https://raw.githubusercontent.com/julien-ctx/hu-db/refs/heads/main/images/hieraciumPilosella.jpg",
     "scientific_name": "Hieracium pilosella",
@@ -7725,7 +7725,7 @@
     }
   },
   {
-    "id": 184,
+    "id": 182,
     "key": "pinusSylvestris",
     "image_link": "https://raw.githubusercontent.com/julien-ctx/hu-db/refs/heads/main/images/pinusSylvestris.jpg",
     "scientific_name": "Pinus sylvestris",
@@ -7779,7 +7779,7 @@
     }
   },
   {
-    "id": 185,
+    "id": 183,
     "key": "taraxacumOfficinale",
     "image_link": "https://raw.githubusercontent.com/julien-ctx/hu-db/refs/heads/main/images/taraxacumOfficinale.jpg",
     "scientific_name": "Taraxacum officinale",
@@ -7830,7 +7830,7 @@
     }
   },
   {
-    "id": 186,
+    "id": 184,
     "key": "paeoniaOfficinalis",
     "image_link": "https://raw.githubusercontent.com/julien-ctx/hu-db/refs/heads/main/images/paeoniaOfficinalis.jpg",
     "scientific_name": "Paeonia officinalis",
@@ -7880,7 +7880,7 @@
     }
   },
   {
-    "id": 187,
+    "id": 185,
     "key": "plantagoMajor",
     "image_link": "https://raw.githubusercontent.com/julien-ctx/hu-db/refs/heads/main/images/plantagoMajor.jpg",
     "scientific_name": "Plantago major",
@@ -7932,7 +7932,7 @@
     }
   },
   {
-    "id": 188,
+    "id": 186,
     "key": "platycodonGrandiflorum",
     "image_link": "https://raw.githubusercontent.com/julien-ctx/hu-db/refs/heads/main/images/platycodonGrandiflorum.jpg",
     "scientific_name": "Platycodon grandiflorum",
@@ -7969,7 +7969,7 @@
     }
   },
   {
-    "id": 189,
+    "id": 187,
     "key": "plectranthusAmboinicus",
     "image_link": "https://raw.githubusercontent.com/julien-ctx/hu-db/refs/heads/main/images/plectranthusAmboinicus.jpg",
     "scientific_name": "Plectranthus amboinicus",
@@ -8017,7 +8017,7 @@
     }
   },
   {
-    "id": 190,
+    "id": 188,
     "key": "piperLongum",
     "image_link": "https://raw.githubusercontent.com/julien-ctx/hu-db/refs/heads/main/images/piperLongum.jpg",
     "scientific_name": "Piper longum",
@@ -8055,7 +8055,7 @@
     }
   },
   {
-    "id": 191,
+    "id": 189,
     "key": "polygalaPaniculata",
     "image_link": "https://raw.githubusercontent.com/julien-ctx/hu-db/refs/heads/main/images/polygalaPaniculata.jpg",
     "scientific_name": "Polygala paniculata",
@@ -8088,7 +8088,7 @@
     }
   },
   {
-    "id": 192,
+    "id": 190,
     "key": "polygalaSenega",
     "image_link": "https://raw.githubusercontent.com/julien-ctx/hu-db/refs/heads/main/images/polygalaSenega.jpg",
     "scientific_name": "Polygala senega",
@@ -8119,7 +8119,7 @@
     }
   },
   {
-    "id": 193,
+    "id": 191,
     "key": "malusSylvestris",
     "image_link": "https://raw.githubusercontent.com/julien-ctx/hu-db/refs/heads/main/images/malusSylvestris.jpg",
     "scientific_name": "Malus sylvestris",
@@ -8165,7 +8165,7 @@
     }
   },
   {
-    "id": 194,
+    "id": 192,
     "key": "wolfiporiaExtensa",
     "image_link": "https://raw.githubusercontent.com/julien-ctx/hu-db/refs/heads/main/images/wolfiporiaExtensa.jpg",
     "scientific_name": "Wolfiporia extensa",
@@ -8209,7 +8209,7 @@
     }
   },
   {
-    "id": 195,
+    "id": 193,
     "key": "potentillaErecta",
     "image_link": "https://raw.githubusercontent.com/julien-ctx/hu-db/refs/heads/main/images/potentillaErecta.jpg",
     "scientific_name": "Potentilla erecta",
@@ -8250,7 +8250,7 @@
     }
   },
   {
-    "id": 196,
+    "id": 194,
     "key": "equisetumArvense",
     "image_link": "https://raw.githubusercontent.com/julien-ctx/hu-db/refs/heads/main/images/equisetumArvense.jpg",
     "scientific_name": "Equisetum arvense",
@@ -8297,7 +8297,7 @@
     }
   },
   {
-    "id": 197,
+    "id": 195,
     "key": "primulaVeris",
     "image_link": "https://raw.githubusercontent.com/julien-ctx/hu-db/refs/heads/main/images/primulaVeris.jpg",
     "scientific_name": "Primula veris",
@@ -8334,7 +8334,7 @@
     }
   },
   {
-    "id": 198,
+    "id": 196,
     "key": "psidiumGuajava",
     "image_link": "https://raw.githubusercontent.com/julien-ctx/hu-db/refs/heads/main/images/psidiumGuajava.jpg",
     "scientific_name": "Psidium guajava",
@@ -8374,7 +8374,7 @@
     }
   },
   {
-    "id": 199,
+    "id": 197,
     "key": "puerariaLobata",
     "image_link": "https://raw.githubusercontent.com/julien-ctx/hu-db/refs/heads/main/images/puerariaLobata.jpg",
     "scientific_name": "Pueraria lobata",
@@ -8417,7 +8417,7 @@
     }
   },
   {
-    "id": 200,
+    "id": 198,
     "key": "anacyclusPyrethrum",
     "image_link": "https://raw.githubusercontent.com/julien-ctx/hu-db/refs/heads/main/images/anacyclusPyrethrum.jpg",
     "scientific_name": "Anacyclus pyrethrum",
@@ -8454,7 +8454,7 @@
     }
   },
   {
-    "id": 201,
+    "id": 199,
     "key": "cinchonaPubescens",
     "image_link": "https://raw.githubusercontent.com/julien-ctx/hu-db/refs/heads/main/images/cinchonaPubescens.jpg",
     "scientific_name": "Cinchona pubescens",
@@ -8485,7 +8485,7 @@
     }
   },
   {
-    "id": 202,
+    "id": 200,
     "key": "krameriaTriandra",
     "image_link": "https://raw.githubusercontent.com/julien-ctx/hu-db/refs/heads/main/images/krameriaTriandra.jpg",
     "scientific_name": "Krameria triandra",
@@ -8516,7 +8516,7 @@
     }
   },
   {
-    "id": 203,
+    "id": 201,
     "key": "glycyrrhizaGlabra",
     "image_link": "https://raw.githubusercontent.com/julien-ctx/hu-db/refs/heads/main/images/glycyrrhizaGlabra.jpg",
     "scientific_name": "Glycyrrhiza glabra",
@@ -8563,7 +8563,7 @@
     }
   },
   {
-    "id": 204,
+    "id": 202,
     "key": "rehmanniaGlutinosa",
     "image_link": "https://raw.githubusercontent.com/julien-ctx/hu-db/refs/heads/main/images/rehmanniaGlutinosa.jpg",
     "scientific_name": "Rehmannia glutinosa",
@@ -8607,7 +8607,7 @@
     }
   },
   {
-    "id": 205,
+    "id": 203,
     "key": "filipendulaUlmaria",
     "image_link": "https://raw.githubusercontent.com/julien-ctx/hu-db/refs/heads/main/images/filipendulaUlmaria.jpg",
     "scientific_name": "Filipendula ulmaria",
@@ -8659,7 +8659,7 @@
     }
   },
   {
-    "id": 206,
+    "id": 204,
     "key": "polygonumAviculare",
     "image_link": "https://raw.githubusercontent.com/julien-ctx/hu-db/refs/heads/main/images/polygonumAviculare.jpg",
     "scientific_name": "Polygonum aviculare",
@@ -8708,7 +8708,7 @@
     }
   },
   {
-    "id": 207,
+    "id": 205,
     "key": "rheumOfficinale",
     "image_link": "https://raw.githubusercontent.com/julien-ctx/hu-db/refs/heads/main/images/rheumOfficinale.jpg",
     "scientific_name": "Rheum officinale",
@@ -8740,7 +8740,7 @@
     }
   },
   {
-    "id": 208,
+    "id": 206,
     "key": "rosmarinusOfficinalis",
     "image_link": "https://raw.githubusercontent.com/julien-ctx/hu-db/refs/heads/main/images/rosmarinusOfficinalis.jpg",
     "scientific_name": "Rosmarinus officinalis",
@@ -8785,7 +8785,7 @@
     }
   },
   {
-    "id": 209,
+    "id": 207,
     "key": "alceaRosae",
     "image_link": "https://raw.githubusercontent.com/julien-ctx/hu-db/refs/heads/main/images/alceaRosae.jpg",
     "scientific_name": "Alcea rosea",
@@ -8836,7 +8836,7 @@
     }
   },
   {
-    "id": 210,
+    "id": 208,
     "key": "rosaDamascena",
     "image_link": "https://raw.githubusercontent.com/julien-ctx/hu-db/refs/heads/main/images/rosaDamascena.jpg",
     "scientific_name": "Rosa damascena",
@@ -8880,7 +8880,7 @@
     }
   },
   {
-    "id": 211,
+    "id": 209,
     "key": "crocusSativus",
     "image_link": "https://raw.githubusercontent.com/julien-ctx/hu-db/refs/heads/main/images/crocusSativus.jpg",
     "scientific_name": "Crocus sativus",
@@ -8922,7 +8922,7 @@
     }
   },
   {
-    "id": 212,
+    "id": 210,
     "key": "lythrumSalicaria",
     "image_link": "https://raw.githubusercontent.com/julien-ctx/hu-db/refs/heads/main/images/lythrumSalicaria.jpg",
     "scientific_name": "Lythrum salicaria",
@@ -8975,7 +8975,7 @@
     }
   },
   {
-    "id": 213,
+    "id": 211,
     "key": "smilaxSarsaparilla",
     "image_link": "https://raw.githubusercontent.com/julien-ctx/hu-db/refs/heads/main/images/smilaxSarsaparilla.jpg",
     "scientific_name": "Smilax ornata",
@@ -9022,7 +9022,7 @@
     }
   },
   {
-    "id": 214,
+    "id": 212,
     "key": "sanguisorbaOfficinalis",
     "image_link": "https://raw.githubusercontent.com/julien-ctx/hu-db/refs/heads/main/images/sanguisorbaOfficinalis.jpg",
     "scientific_name": "Sanguisorba officinalis",
@@ -9064,7 +9064,7 @@
     }
   },
   {
-    "id": 215,
+    "id": 213,
     "key": "santolinaChamaecyparissus",
     "image_link": "https://raw.githubusercontent.com/julien-ctx/hu-db/refs/heads/main/images/santolinaChamaecyparissus.jpg",
     "scientific_name": "Santolina chamaecyparissus",
@@ -9106,7 +9106,7 @@
     }
   },
   {
-    "id": 216,
+    "id": 214,
     "key": "saponariaOfficinalis",
     "image_link": "https://raw.githubusercontent.com/julien-ctx/hu-db/refs/heads/main/images/saponariaOfficinalis.jpg",
     "scientific_name": "Saponaria officinalis",
@@ -9149,7 +9149,7 @@
     }
   },
   {
-    "id": 217,
+    "id": 215,
     "key": "saturejaHortensis",
     "image_link": "https://raw.githubusercontent.com/julien-ctx/hu-db/refs/heads/main/images/saturejaHortensis.jpg",
     "scientific_name": "Satureja hortensis",
@@ -9190,7 +9190,7 @@
     }
   },
   {
-    "id": 218,
+    "id": 216,
     "key": "salviaOfficinalis",
     "image_link": "https://raw.githubusercontent.com/julien-ctx/hu-db/refs/heads/main/images/salviaOfficinalis.jpg",
     "scientific_name": "Salvia officinalis",
@@ -9241,7 +9241,7 @@
     }
   },
   {
-    "id": 219,
+    "id": 217,
     "key": "salixAlba",
     "image_link": "https://raw.githubusercontent.com/julien-ctx/hu-db/refs/heads/main/images/salixAlba.jpg",
     "scientific_name": "Salix alba",
@@ -9288,7 +9288,7 @@
     }
   },
   {
-    "id": 220,
+    "id": 218,
     "key": "schisandraChinensis",
     "image_link": "https://raw.githubusercontent.com/julien-ctx/hu-db/refs/heads/main/images/schisandraChinensis.jpg",
     "scientific_name": "Schisandra chinensis",
@@ -9332,7 +9332,7 @@
     }
   },
   {
-    "id": 221,
+    "id": 219,
     "key": "scopariaDulcis",
     "image_link": "https://raw.githubusercontent.com/julien-ctx/hu-db/refs/heads/main/images/scopariaDulcis.jpg",
     "scientific_name": "Scoparia dulcis",
@@ -9370,7 +9370,7 @@
     }
   },
   {
-    "id": 222,
+    "id": 220,
     "key": "scrophulariaNodosa",
     "image_link": "https://raw.githubusercontent.com/julien-ctx/hu-db/refs/heads/main/images/scrophulariaNodosa.jpg",
     "scientific_name": "Scrophularia nodosa",
@@ -9416,7 +9416,7 @@
     }
   },
   {
-    "id": 223,
+    "id": 221,
     "key": "scutellariaBaicalensis",
     "image_link": "https://raw.githubusercontent.com/julien-ctx/hu-db/refs/heads/main/images/scutellariaBaicalensis.jpg",
     "scientific_name": "Scutellaria baicalensis",
@@ -9462,7 +9462,7 @@
     }
   },
   {
-    "id": 224,
+    "id": 222,
     "key": "cassiaAngustifolia",
     "image_link": "https://raw.githubusercontent.com/julien-ctx/hu-db/refs/heads/main/images/cassiaAngustifolia.jpg",
     "scientific_name": "Cassia angustifolia",
@@ -9493,7 +9493,7 @@
     }
   },
   {
-    "id": 225,
+    "id": 223,
     "key": "solidagoVirgaurea",
     "image_link": "https://raw.githubusercontent.com/julien-ctx/hu-db/refs/heads/main/images/solidagoVirgaurea.jpg",
     "scientific_name": "Solidago virgaurea",
@@ -9541,7 +9541,7 @@
     }
   },
   {
-    "id": 226,
+    "id": 224,
     "key": "sophoraJaponica",
     "image_link": "https://raw.githubusercontent.com/julien-ctx/hu-db/refs/heads/main/images/sophoraJaponica.jpg",
     "scientific_name": "Sophora japonica",
@@ -9580,7 +9580,7 @@
     }
   },
   {
-    "id": 227,
+    "id": 225,
     "key": "calendulaOfficinalis",
     "image_link": "https://raw.githubusercontent.com/julien-ctx/hu-db/refs/heads/main/images/calendulaOfficinalis.jpg",
     "scientific_name": "Calendula officinalis",
@@ -9628,7 +9628,7 @@
     }
   },
   {
-    "id": 228,
+    "id": 226,
     "key": "sambucusNigra",
     "image_link": "https://raw.githubusercontent.com/julien-ctx/hu-db/refs/heads/main/images/sambucusNigra.jpg",
     "scientific_name": "Sambucus nigra",
@@ -9679,7 +9679,7 @@
     }
   },
   {
-    "id": 229,
+    "id": 227,
     "key": "syzygiumCumini",
     "image_link": "https://raw.githubusercontent.com/julien-ctx/hu-db/refs/heads/main/images/syzygiumCumini.jpg",
     "scientific_name": "Syzygium cumini",
@@ -9717,7 +9717,7 @@
     }
   },
   {
-    "id": 230,
+    "id": 228,
     "key": "tamarindusIndica",
     "image_link": "https://raw.githubusercontent.com/julien-ctx/hu-db/refs/heads/main/images/tamarindusIndica.jpg",
     "scientific_name": "Tamarindus indica",
@@ -9765,7 +9765,7 @@
     }
   },
   {
-    "id": 231,
+    "id": 229,
     "key": "curcumaXanthorrhiza",
     "image_link": "https://raw.githubusercontent.com/julien-ctx/hu-db/refs/heads/main/images/curcumaXanthorrhiza.jpg",
     "scientific_name": "Curcuma xanthorrhiza",
@@ -9805,7 +9805,7 @@
     }
   },
   {
-    "id": 232,
+    "id": 230,
     "key": "terminaliaCatappa",
     "image_link": "https://raw.githubusercontent.com/julien-ctx/hu-db/refs/heads/main/images/terminaliaCatappa.jpg",
     "scientific_name": "Terminalia catappa",
@@ -9852,7 +9852,7 @@
     }
   },
   {
-    "id": 233,
+    "id": 231,
     "key": "camelliaSinensis",
     "image_link": "https://raw.githubusercontent.com/julien-ctx/hu-db/refs/heads/main/images/camelliaSinensis.jpg",
     "scientific_name": "Camellia sinensis",
@@ -9901,7 +9901,7 @@
     }
   },
   {
-    "id": 234,
+    "id": 232,
     "key": "thymusVulgaris",
     "image_link": "https://raw.githubusercontent.com/julien-ctx/hu-db/refs/heads/main/images/thymusVulgaris.jpg",
     "scientific_name": "Thymus vulgaris",
@@ -9952,7 +9952,7 @@
     }
   },
   {
-    "id": 235,
+    "id": 233,
     "key": "tiliaPlatyphyllos",
     "image_link": "https://raw.githubusercontent.com/julien-ctx/hu-db/refs/heads/main/images/tiliaPlatyphyllos.jpg",
     "scientific_name": "Tilia platyphyllos",
@@ -9990,7 +9990,7 @@
     }
   },
   {
-    "id": 236,
+    "id": 234,
     "key": "lippiaAlba",
     "image_link": "https://raw.githubusercontent.com/julien-ctx/hu-db/refs/heads/main/images/lippiaAlba.jpg",
     "scientific_name": "Lippia alba",
@@ -10028,7 +10028,7 @@
     }
   },
   {
-    "id": 237,
+    "id": 235,
     "key": "uncariaTomentosa",
     "image_link": "https://raw.githubusercontent.com/julien-ctx/hu-db/refs/heads/main/images/uncariaTomentosa.jpg",
     "scientific_name": "Uncaria tomentosa",
@@ -10071,7 +10071,7 @@
     }
   },
   {
-    "id": 238,
+    "id": 236,
     "key": "valerianaOfficinalis",
     "image_link": "https://raw.githubusercontent.com/julien-ctx/hu-db/refs/heads/main/images/valerianaOfficinalis.jpg",
     "scientific_name": "Valeriana officinalis",
@@ -10111,7 +10111,7 @@
     }
   },
   {
-    "id": 239,
+    "id": 237,
     "key": "veprisLanceolata",
     "image_link": "https://raw.githubusercontent.com/julien-ctx/hu-db/refs/heads/main/images/veprisLanceolata.jpg",
     "scientific_name": "Vepris lanceolata",
@@ -10150,7 +10150,7 @@
     }
   },
   {
-    "id": 240,
+    "id": 238,
     "key": "veronicaOfficinalis",
     "image_link": "https://raw.githubusercontent.com/julien-ctx/hu-db/refs/heads/main/images/veronicaOfficinalis.jpg",
     "scientific_name": "Veronica officinalis",
@@ -10189,7 +10189,7 @@
     }
   },
   {
-    "id": 241,
+    "id": 239,
     "key": "verbenaOfficinalis",
     "image_link": "https://raw.githubusercontent.com/julien-ctx/hu-db/refs/heads/main/images/verbenaOfficinalis.jpg",
     "scientific_name": "Verbena officinalis",
@@ -10232,7 +10232,7 @@
     }
   },
   {
-    "id": 242,
+    "id": 240,
     "key": "viburnumPrunifolium",
     "image_link": "https://raw.githubusercontent.com/julien-ctx/hu-db/refs/heads/main/images/viburnumPrunifolium.jpg",
     "scientific_name": "Viburnum prunifolium",
@@ -10274,7 +10274,7 @@
     }
   },
   {
-    "id": 243,
+    "id": 241,
     "key": "vitisVinifera",
     "image_link": "https://raw.githubusercontent.com/julien-ctx/hu-db/refs/heads/main/images/vitisVinifera.jpg",
     "scientific_name": "Vitis vinifera",
@@ -10321,7 +10321,7 @@
     }
   },
   {
-    "id": 244,
+    "id": 242,
     "key": "zanthoxylumBungeanum",
     "image_link": "https://raw.githubusercontent.com/julien-ctx/hu-db/refs/heads/main/images/zanthoxylumBungeanum.jpg",
     "scientific_name": "Zanthoxylum bungeanum",
