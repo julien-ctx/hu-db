@@ -890,8 +890,8 @@
   },
   {
     "id": 22,
-    "key": "lavandulaLatifolia",
-    "image_link": "https://raw.githubusercontent.com/julien-ctx/hu-db/refs/heads/main/images/lavandulaLatifolia.jpg",
+    "key": "lavandulaAngustifolia",
+    "image_link": "https://raw.githubusercontent.com/julien-ctx/hu-db/refs/heads/main/images/lavandulaAngustifolia.jpg",
     "scientific_name": "Lavandula latifolia",
     "description": {
       "geographical_areas": [
@@ -900,15 +900,16 @@
         "centralEurope"
       ],
       "habitat": "mountainSlopes",
-      "rarity": "rare"
+      "rarity": "abundant"
     },
     "properties": {
       "benefits": [
+        "sleepAid",
         "antimicrobial",
         "sedative",
         "anxiolytic",
-        "moodEnhancing",
-        "relaxant"
+        "relaxant",
+        "moodEnhancing"
       ],
       "strength": 4,
       "duration": 4,
@@ -918,7 +919,7 @@
         "insomnia",
         "muscleCramps",
         "migraine",
-        "soreThroat"
+        "poorDigestion"
       ],
       "other_options_ailments": ["nervousness", "anemia", "fatigue"]
     },
